@@ -37,6 +37,11 @@ else
   echo "[WARN] jq 未安裝，略過 MyGoPen API 解析"
 fi
 
+# 🇹🇼 備援：台灣網安社群詐騙網址資料庫（TaiwanScamList）
+echo "[INFO] 抓取 TaiwanScamList 備援資料中..."
+curl -fsSL https://raw.githubusercontent.com/iamdual/TaiwanScamList/main/blocklist.txt \
+  -o "$EXT/taiwan_scam_backup.txt" || true
+
 # =============================
 # 🧱 Facebook / Instagram 廣告與追蹤封鎖
 # =============================
