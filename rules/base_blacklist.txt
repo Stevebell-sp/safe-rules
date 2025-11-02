@@ -1,0 +1,86 @@
+! === Taiwan Safe Access: Blacklist ===
+
+! 💩 LINE 廣告 / 假新聞 / 假投資源
+||a.line.me/er/la*/v1/$empty
+||w.line.me/la*/api/v*/ads^$empty
+||d.line-scdn.net/lcp-prod-photo/$image,empty
+||voom-obs.line-scdn.net^$important
+||today.line.me^$important
+||linecrs.line-scdn.net^$important
+||today-obs.line-scdn.net^$important
+||voom-assets.line-scdn.net^$important
+||ad.line-scdn.net^$important
+||uts-front.line-apps.com^$important
+||jp-col-tcp.nelo.linecorp.com^$important
+||legy.line-apps.com^$important
+
+! 🧨 短網址詐騙（台灣常見）
+||bit.ly^
+||tinyurl.com^
+||reurl.cc^
+||ppt.cc^
+||goo.gl^
+||is.gd^
+||cut.ly^
+||cutt.ly^
+||lurl.cc^
+||t.co^
+||shorturl.at^
+||s.id^
+||url.cn^
+||rb.gy^
+||shrtco.de^
+
+! 🧾 假投資 / 假貸款 / 假交友廣告（關鍵字網域）
+||highprofit.*
+||get-rich.*
+||earnquick.*
+||cashfast.*
+||forexpro.*
+||crypto-invest.*
+||bit-invest.*
+||coin-trade.*
+||usdtprofit.*
+||line-join.*
+||lineevent.*
+
+! 🛒 假購物 / 詐騙商城
+||shop-tw.*
+||pch0me.*
+||tw-buy.*
+||momo-offer.*
+||rakutw.*
+||pchometw.*
+||24htw.*
+||myshopline.cc^
+||shopify-tw.*
+||fbshop.*
+||shoptaiwan.*
+||twshop.*
+||goodsale.*
+
+! 📱 追蹤 / 廣告平台
+||googletagmanager.com^
+||google-analytics.com^
+||doubleclick.net^
+||adservice.google.com^
+||ads.yahoo.com^
+||scorecardresearch.com^
+||facebook.net^
+||adsrvr.org^
+||taboola.com^
+||outbrain.com^
+||zedo.com^
+||revcontent.com^
+
+! 🟥 YouTube 廣告核心（DNS層）
+||googleads.g.doubleclick.net^
+||ad.doubleclick.net^
+||pagead2.googlesyndication.com^
+||youtube.com/api/stats/ads^
+||youtube.com/pagead^
+||youtube.com/get_midroll^
+||youtube.com/ptracking^
+||s.youtube.com/api/stats/ads^
+||s.youtube.com/pagead^
+||video-stats.video.google.com^

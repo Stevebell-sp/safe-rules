@@ -1,0 +1,30 @@
+name: Build AdGuard Rules
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 每天 12:00 台灣時間（UTC+8）
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build rules
+        run: |
+          chmod +x build.sh
+          ./build.sh
+
+      - name: Commit & push
+        run: |
+          git config user.name "auto-bot"
+          git config user.email "bot@example.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: auto-build rules $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          else
+            echo "No changes."
+          fi
