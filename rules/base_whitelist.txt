@@ -118,6 +118,9 @@
 @@||play.googleapis.com^
 @@||ssl.gstatic.com^
 @@||one.google.com^
+@@||translate.google.com^
+@@||translate.googleapis.com^
+@@||googleapis.com^
 
 @@||login.microsoftonline.com^
 @@||*.login.microsoftonline.com^
