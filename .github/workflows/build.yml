@@ -1,8 +1,5 @@
 name: Build AdGuard Rules
 
-- name: Install jq
-  run: sudo apt-get install -y jq
-
 on:
   schedule:
     - cron: "0 4 * * *"   # 每天 12:00 台北時間
@@ -20,6 +17,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: false  # 👈 我們自己設定 remote，避免舊憑證影響
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Build rules
         run: |
