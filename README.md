@@ -12,7 +12,7 @@
 1. Fork 或直接建立此 Repo。
 2. 啟用 GitHub Actions（Public repo 無需特別設定）。
 3. 取得 RAW 清單網址（範例）：
-   `https://raw.githubusercontent.com/<YOUR_GITHUB>/safe-rules/main/dist/taiwan-safe-master.txt`
+   `https://raw.githubusercontent.com/Stevebell-sp/safe-rules/main/dist/taiwan-safe-master.txt`
 4. AdGuard Home → Filters → DNS blocklists → Add blocklist → 貼上上面網址（建議 24h 更新）。
 
 ## 本地手動建置

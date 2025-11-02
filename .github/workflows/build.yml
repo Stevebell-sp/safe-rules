@@ -2,15 +2,21 @@ name: Build AdGuard Rules
 
 on:
   schedule:
-    - cron: "0 4 * * *"   # 每天 12:00 台灣時間（UTC+8）
+    - cron: "0 4 * * *"   # 每天 12:00 台北時間
   workflow_dispatch: {}
+
+permissions:
+  contents: write   # 👈 給 GITHUB_TOKEN 寫入權限
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # 👈 我們自己設定 remote，避免舊憑證影響
 
       - name: Build rules
         run: |
@@ -18,13 +24,17 @@ jobs:
           ./build.sh
 
       - name: Commit & push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "auto-bot"
           git config user.email "bot@example.com"
           git add -A
           if ! git diff --cached --quiet; then
             git commit -m "chore: auto-build rules $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            git push
+            # 用 token 設定 origin，避免 403
+            git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+            git push origin HEAD:${{ github.ref_name }}
           else
             echo "No changes."
           fi
