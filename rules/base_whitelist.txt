@@ -194,6 +194,31 @@
 @@||facebook.com^
 @@||*.facebook.com^
 @@||fbcdn.net^
+
+! === 📱 社群平台白名單 (Instagram / Threads / X) ===
+
+! 🟣 Instagram
+@@||instagram.com^
+@@||cdninstagram.com^
+@@||ig.me^
+@@||facebook.net^
+@@||fbcdn.net^
+
+! 🟠 Threads
+@@||threads.net^
+@@||cdnthreads.net^
+@@||static.threads.net^
+@@||meta.com^
+@@||meta.net^
+@@||l.instagram.com^
+
+! 🔵 Twitter / X
+@@||twitter.com^
+@@||x.com^
+@@||t.co^
+@@||twimg.com^
+@@||abs.twimg.com^
+@@||video.twimg.com^
 @@||*.fbcdn.net^
 @@||connect.facebook.net^
 @@||meta.com^
