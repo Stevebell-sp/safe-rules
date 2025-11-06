@@ -85,6 +85,11 @@ cat > "$SOCIAL_WHITELIST" <<'EOF'
 @@||hdslb.com^
 @@||api.bilibili.com^
 @@||api.bilibili.cn^
+
+! 💾 網盤與檔案分享白名單
+@@||lanzouw.com^
+@@||wwh.lanzouw.com^
+@@||*.lanzouw.com^
 EOF
 
 # =============================
