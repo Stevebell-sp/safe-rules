@@ -1,0 +1,33 @@
+! === 📱 社群平台與影音網站白名單 ===
+
+! 🟣 Instagram
+@@||instagram.com^
+@@||cdninstagram.com^
+@@||ig.me^
+@@||facebook.net^
+@@||fbcdn.net^
+
+! 🟠 Threads
+@@||threads.net^
+@@||cdnthreads.net^
+@@||static.threads.net^
+@@||meta.com^
+@@||meta.net^
+@@||l.instagram.com^
+
+! 🔵 Twitter / X
+@@||twitter.com^
+@@||x.com^
+@@||t.co^
+@@||twimg.com^
+@@||abs.twimg.com^
+@@||video.twimg.com^
+
+! 💖 Bilibili
+@@||bilibili.com^
+@@||bilibili.cn^
+@@||passport.bilibili.com^
+@@||passport.bilibili.cn^
+@@||hdslb.com^
+@@||api.bilibili.com^
+@@||api.bilibili.cn^
