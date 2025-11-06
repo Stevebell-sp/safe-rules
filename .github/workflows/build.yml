@@ -1,8 +1,21 @@
 name: Build AdGuard Rules
 
 on:
+  # ✅ 只要有檔案更新就觸發（監聽常用檔案與資料夾）
+  push:
+    branches:
+      - main
+    paths:
+      - '**.txt'
+      - '**.sh'
+      - '**.json'
+      - '**.yml'
+      - 'rules/**'
+      - 'dist/**'
+  # ✅ 仍保留：每天台北時間 12:00 自動執行
   schedule:
-    - cron: "0 4 * * *"   # 每天 12:00 台北時間
+    - cron: "0 4 * * *"   # 每天 12:00 台北時間 (UTC+8)
+  # ✅ 仍保留：手動觸發
   workflow_dispatch: {}
 
 permissions:
