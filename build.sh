@@ -48,6 +48,46 @@ curl -fsSL https://raw.githubusercontent.com/iamdual/TaiwanScamList/main/blockli
 curl -fsSL https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Facebook-Tracking-List.txt -o "$EXT/goodbye_fb.txt" || true
 
 # =============================
+# 📱 內建社群 & Bilibili 白名單
+# =============================
+SOCIAL_WHITELIST="$TMP/whitelist_social.txt"
+cat > "$SOCIAL_WHITELIST" <<'EOF'
+! === 📱 社群平台與影音網站白名單 ===
+
+! 🟣 Instagram
+@@||instagram.com^
+@@||cdninstagram.com^
+@@||ig.me^
+@@||facebook.net^
+@@||fbcdn.net^
+
+! 🟠 Threads
+@@||threads.net^
+@@||cdnthreads.net^
+@@||static.threads.net^
+@@||meta.com^
+@@||meta.net^
+@@||l.instagram.com^
+
+! 🔵 Twitter / X
+@@||twitter.com^
+@@||x.com^
+@@||t.co^
+@@||twimg.com^
+@@||abs.twimg.com^
+@@||video.twimg.com^
+
+! 💖 Bilibili
+@@||bilibili.com^
+@@||bilibili.cn^
+@@||passport.bilibili.com^
+@@||passport.bilibili.cn^
+@@||hdslb.com^
+@@||api.bilibili.com^
+@@||api.bilibili.cn^
+EOF
+
+# =============================
 # 🧩 合併主規則 (白 + 黑 + 外部來源)
 # =============================
 MERGED="$TMP/merged_stage.txt"
@@ -58,6 +98,9 @@ MERGED="$TMP/merged_stage.txt"
   echo "! Source: https://github.com/Stevebell-sp/safe-rules"
   echo
   echo "! === Local Whitelist ==="
+  echo "! === Built-in Social & Bilibili Whitelist ==="
+  cat "$SOCIAL_WHITELIST"
+  echo
   cat rules/base_whitelist.txt 2>/dev/null || true
   echo
   echo "! === Local Blacklist ==="
