@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9xB5Kp+MQxQOfitSQvDjuw
-! Version: 202511090411
+! Checksum: gFzs5RAdcErgyfpmwMCBcw
+! Version: 202511100421
 ! Title: EasyList China
-! Last modified: 09 Nov 2025 04:11 UTC
+! Last modified: 10 Nov 2025 04:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1762,6 +1762,11 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||lls11100ko.com^
+||witticism19.top^
+||q58nf16jd3.com^
+||wueyninj7r.com^
+||pdrerzug.com^
 ||hc1kycrud.com^
 ||lls11090ko.com^
 ||vocabulary83.com^
@@ -1769,6 +1774,13 @@ newduba.cn###jq_youxi
 ||phfuhedbph.com^
 ||7lavkpncj.com^
 ||vyqn.cn^
+||ht9s1j1bf.com^
+||lls11091ko.com^
+||tjv251109ads.com^
+||tghigvud.com^
+||1fxs.com^$third-party
+||2hiu.com^$third-party
+||leue.cn^
 ||6tdz25urqj.com^
 ||qjqdkli0ag.com^
 ||wrestle22.top^
@@ -15984,6 +15996,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||adnet.qq.com^$~third-party
 @@||adnxs.com/ast/static/$domain=outlook.live.com
 @@||adnxs.com/prebid/prebid.js$domain=demo.ama.pub
+@@_prebid.js$domain=now.com
 @@||adoi.cn^$generichide
 @@||ads.alafish.cn^$~third-party
 @@||ads.cdn.tvb.com^*.key
