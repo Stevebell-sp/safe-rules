@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: t8BSv0UJszVZ+fAP93+ZZg
-! Version: 202511170421
+! Checksum: 4Jnk1h145+YpN8W+tj0X9w
+! Version: 202511180421
 ! Title: EasyList China
-! Last modified: 17 Nov 2025 04:21 UTC
+! Last modified: 18 Nov 2025 04:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1764,6 +1764,13 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||jqmr7zssmd.com^
+||k06kldksi3.com^
+||xxts11180zs.com^
+||surgeon38.top^
+||ucriqupq.com^
+||yrnv.cn^
+||k5w06v2yzh.com^
 ||0oi1ej7mo.com^
 ||a85t9mxnj.com^
 ||xxts11170zs.com^
@@ -1772,6 +1779,10 @@ newduba.cn###jq_youxi
 ||qheg.cn^
 ||iiahutvaa.com^
 ||qq2tdd0xx.com^
+||49ioqq6kt.com^
+||xxts11171zs.com^
+||frchavvati.com^
+||carlinaframh.com^
 ||uetx75ibcu.com^
 ||dh8ypn3lq8.com^
 ||xxts11160zs.com^
@@ -10365,7 +10376,7 @@ ip138.com###banana
 appinn.com###sidebar > .widget_block > a
 52asus.com###AsusMall-contain
 mydrivers.com##div[style="margin: auto;width: 800px;padding: 10px 0;"]
-cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(display: inline-block;))
+bing.com,~www.bing.com#?#.b_algo:-abp-has(p:-abp-properties(display: inline-block;))
 bing.com#?#.b_algo:-abp-has(.ad_esltitle)
 bing.com#?#.b_algo:-abp-has(.b_ads1line)
 bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
