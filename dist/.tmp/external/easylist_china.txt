@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GuK6wd1DZRU8MeHO1smHIg
-! Version: 202512160431
+! Checksum: KRWsm3/4KuVQ4MFXk76sKA
+! Version: 202512170431
 ! Title: EasyList China
-! Last modified: 16 Dec 2025 04:31 UTC
+! Last modified: 17 Dec 2025 04:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1767,6 +1767,17 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||basically97.top^
+||990ir3zfu.com^
+||l6906qxga.com^
+||06evyxnibl.com^
+||mgfikuktpi.com^
+||tkll12170nb.com^
+||roj7ah16d.com^
+||discount63.top^
+||xrkbhl2cp.com^
+||uybq.cn^
+||it3c4jmx.xyz^
 ||6fm4dcpj31.com^
 ||cautious60.com^
 ||aybikaemg.com^
@@ -1775,6 +1786,12 @@ newduba.cn###jq_youxi
 ||tkll12160nb.com^
 ||zbfo.cn^
 ||3245duu17z.com^
+||tkll12161nb.com^
+||88r6s1hecp.com^
+||7b6c81b4c2.com^
+||your-name.click^
+||qtevriko.com^
+||086123.xyz^
 ||grateful03.com^
 ||877mcpiom.com^
 ||p99c3kwxg.com^
@@ -10371,6 +10388,7 @@ meijutt.*/js/pcjs/
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 youku.com##div[class*="adDrawer"]
+vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > a[href^="http"]:not([href*="vikacg."])
 6park.com##td[style="line-height:30px;text-align:center;color:red;background-color:white;"]
 6park.com##.main_news_list > a[href^="http"]:not([href*="6park.com"])
 hkcards.com#?#div[style*="min-height"]:-abp-has(.my-1)
