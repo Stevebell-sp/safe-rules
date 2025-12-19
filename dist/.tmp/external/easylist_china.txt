@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2lVPQlZfA5yF2WuWwzv2Tw
-! Version: 202512180431
+! Checksum: bBHRpPRa8vUIyy4Sq9bgCg
+! Version: 202512190431
 ! Title: EasyList China
-! Last modified: 18 Dec 2025 04:31 UTC
+! Last modified: 19 Dec 2025 04:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -811,6 +811,7 @@ _tm11_pmt_
 _yad_jsonp_
 ubmcmm.baidustatic.com
 ws://*/api/wss/GetNotReadCount$third-party
+wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
 wss://*/api/wss/GetNotReadCount$third-party
 |http://*.cn/ad/
@@ -1737,6 +1738,7 @@ newduba.cn###jq_youxi
 ##.a-media.ex-728-90
 ##a[clickmode="cpt"]
 ###foot > #btmBox
+##.home-qf > div[class*="img-qf"]
 ##.home-qf > div[class*="img-ad"]
 ##.module-player > .dds_w
 ##.content > .dds_w
@@ -1767,6 +1769,21 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||dtjal7b1f.com^
+||spellbind33.com^
+||0wpfe0duo.com^
+||el2m3qr7v.com^
+||ggai12190cp.com^
+||6o719vq4x.com^
+||eyiyoxz.xyz^
+||wftihvn.xyz^
+||bvraciedl.com^
+||zvou.cn^
+||junior48.com^
+||kvdxvqw.xyz^
+||qrzwjfq.xyz^
+||xn--54q23ckxiyx0e.com^
+||qwsbegovo.top^
 ||hriy.cn^
 ||extremely58.top^
 ||pb1b7cqwvs.com^
@@ -1777,6 +1794,16 @@ newduba.cn###jq_youxi
 ||yqhorcill.com^
 ||senior82.com^
 ||dkaon1jjeo.com^
+||jaimbai2b1.com^
+||wuk1ruqhcs.com^
+||ggai12181cp.com^
+||tkll12181nb.com^
+||9z6p1shhsh.top^
+||eftd.cn^
+||qkixeld.xyz^
+||bvtwtwp.xyz^
+||qezkdby1jj.com^
+||p5si0mu8u7.com^
 ||basically97.top^
 ||990ir3zfu.com^
 ||l6906qxga.com^
@@ -10402,6 +10429,7 @@ meijutt.*/js/pcjs/
 ||wujinyuzhou.top/ny/ny852x116.
 ||ping0.cc/static/images/ad/
 ||workers.dev^$domain=axiang.cc
+||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 youku.com##div[class*="adDrawer"]
