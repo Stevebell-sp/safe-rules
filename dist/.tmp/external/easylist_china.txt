@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xsUj8vjNNlVpm5EuM/OBHA
-! Version: 202512250431
+! Checksum: 2AYBMx+sxrCtSuV2OCSUVw
+! Version: 202512260421
 ! Title: EasyList China
-! Last modified: 25 Dec 2025 04:31 UTC
+! Last modified: 26 Dec 2025 04:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1769,6 +1769,19 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||vm5xs8nvqh.com^
+||jg0y00ciyr.com^
+||w5bi16f3co.com^
+||vizgrt.icu^
+||ainb12260zh.com^
+||apparatus49.top^
+||toothpick75.com^
+||ybbreqrake.com^
+||j7kv55pr70.com^
+||twhyhf.icu^
+||ujhu.cn^
+||1gqd0o687z.com^
+||aa52jm08ly.com^
 ||1pt7wq8di.com^
 ||4d45i6p0g.com^
 ||5bess6df0.com^
@@ -1781,6 +1794,13 @@ newduba.cn###jq_youxi
 ||bjnyfav.xyz^
 ||1s8hpetv3.com^
 ||uyfv.cn^
+||rz0f7uxv9.com^
+||ainb12251zh.com^
+||ivonnurb.com^
+||70ba9ncke.com^
+||557ma7bd9.com^
+||ym3jmnu05.com^
+||turcailnt.com^
 ||u39q45jzoj.com^
 ||4zm6p17ppr.com^
 ||pipette22.top^
@@ -10541,8 +10561,10 @@ meijutt.*/js/pcjs/
 ||ping0.cc/static/images/ad/
 ||workers.dev^$domain=axiang.cc
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
+||douyucdn.cn/adxdsp/
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+douyu.com#?#div[class^="body__"] > div[class^="card__"] > span > span[class^="card__"]:-abp-has(span[class^="cardTypeLabel"]:-abp-contains(广告))
 h-ciyuan.com##.theiaStickySidebar .widget_media_image
 h-ciyuan.com#?#.gridview-grid-post:-abp-has(a[title*="Ad』"])
 yahoo.com##li[id^="taboola-twhk-"]
