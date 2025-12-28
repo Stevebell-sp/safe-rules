@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EWZe5/0oLTN0b1zlv0nyIA
-! Version: 202512270431
+! Checksum: x+WWmCvvDcGCBHlNgozY0g
+! Version: 202512280441
 ! Title: EasyList China
-! Last modified: 27 Dec 2025 04:31 UTC
+! Last modified: 28 Dec 2025 04:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1771,6 +1771,17 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||r4uws5iu3g.com^
+||xo60kab7yv.com^
+||xpzodh.icu^
+||7usgqu07mk.com^
+||ainb12280zh.com^
+||yhcu.cn^
+||zbrtnv.icu^
+||ivdtruneda.com^
+||aldehyde06.com^
+||y4g8fgj6ra.com^
+||information43.com^
 ||iklparx8i.com^
 ||zj7coeb5i.com^
 ||frzlftr9y.com^
@@ -1782,6 +1793,9 @@ newduba.cn###jq_youxi
 ||casserole59.top^
 ||trerqekuw.com^
 ||c6hhfkvxv.com^
+||su0k43kcy.com^
+||ainb12271zh.com^
+||z4tnhm97b.com^
 ||vm5xs8nvqh.com^
 ||jg0y00ciyr.com^
 ||w5bi16f3co.com^
@@ -18413,6 +18427,7 @@ wss://*.*.top/$third-party
 ||yydsxs.com/js/guding.
 ||yydsxs.com/js/cnzzpiao.
 52niuyanks.org###content > a
+||biquge700.com/h5/wap.
 .cn/Ao390sW2.js
 .cn/cS389.js
 ##.row.nav-bottom + div[style^="display: block; position: relative; width: 0px; height:"]
