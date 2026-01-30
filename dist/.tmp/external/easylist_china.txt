@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iuU0dxg3/fpV+ocxPth0Eg
-! Version: 202601290451
+! Checksum: XYOcsUZcxqdaxUBkLsZmeg
+! Version: 202601300501
 ! Title: EasyList China
-! Last modified: 29 Jan 2026 04:51 UTC
+! Last modified: 30 Jan 2026 05:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1746,6 +1746,7 @@ newduba.cn###jq_youxi
 ##.home-qf > div[class*="img-ad"]
 ##.module-player > .dds_w
 ##.content > .dds_w
+##a[href^="https://l.erodalabs.com"]
 ###interstitial_fade[style^="display: block"]
 ##body > div.container[style="margin-bottom: 10px;"] > script:first-child ~ div[style="height:60px;width:100%;"]
 ##a[href="https://t.me/bokaiyunwujiankaiyun"]
@@ -1774,7 +1775,19 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
-##a[href^="https://l.erodalabs.com"]
+||l9moubljmc.com^
+||crjitvekbx.com^
+||iry7addri8.com^
+||gsk801300hh.com^
+||isthmus72.com^
+||mountain48.top^
+||nthaumotzz.com^
+||eaygjik.icu^
+||n4kd6phdxw.com^
+||jynv.cn^
+||202xs.com^
+||mias92zmaf.com^
+||xqhfb9hzrs.com^
 ||9vmbje748.com^
 ||lqvz7e4xa.com^
 ||7asx1bxaw.com^
@@ -1785,6 +1798,12 @@ newduba.cn###jq_youxi
 ||4667gwyg1.com^
 ||gtwrpsm.icu^
 ||lkwj.cn^
+||w5daa5.com^
+||x9flqeptn.com^
+||azb6ljd22.com^
+||gsk801291hh.com^
+||z1e2vp1gw.com^
+||n5a92p9zo.com^
 ||03in08p3r1.com^
 ||2xx63f0bfy.com^
 ||nyv388w6lc.com^
@@ -10808,7 +10827,7 @@ meijutt.*/js/pcjs/
 ||ifengimg.com/feprod/
 ||ifeng.com/relateshare?
 ||lancdn.com/public/images/view/Tencent-
-||5dm.link/htm1/$image
+||5dm.link/htm$image
 ||cdxyspa.com/js/e
 ||layuion.com/get/showcase/
 ||xxir.com/static/images/ad.
