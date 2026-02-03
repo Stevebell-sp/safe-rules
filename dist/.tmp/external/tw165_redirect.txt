@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: LowTechFilter TW165 redirect
-! Version: 2026.0201.1
+! Version: 2026.0203.1
 ! Expires: 1 hour
 ! Homepage: https://t.me/AdBlock_TW
 ! ----------------------------------------------------------------------
@@ -8730,7 +8730,6 @@
 ||test.fxtrading.lol^$dnsrewrite=NOERROR;A;34.102.218.71
 ||test.wtobuy.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||test123.hwland.com^$dnsrewrite=NOERROR;A;34.102.218.71
-||testflight.apple.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||testt.dcnsxstx.co^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tether.ren^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tethermarkt.com^$dnsrewrite=NOERROR;A;34.102.218.71

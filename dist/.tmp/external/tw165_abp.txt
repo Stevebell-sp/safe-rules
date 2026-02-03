@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: LowTechFilter TW165 abp
-! Version: 2026.0201.1
+! Version: 2026.0203.1
 ! Expires: 1 hour
 ! Homepage: https://t.me/AdBlock_TW
 ! ----------------------------------------------------------------------
@@ -1763,8 +1763,6 @@
 ||applemusic.yjxkz.com^
 ||appnymex.top^
 ||apps-gemini.vip^
-||apps.apple.com/tw/app/%E9%9B%AA%E5%93%81%E8%B3%BC%E7%89%A9/id1554431914^
-||apps.apple.com/tw/app/metatrader-5/id413251709l=en^
 ||appskqtat3fihbjy.jiabohao.com^
 ||appvip.7ebit.vip/^
 ||appwap.futurex-vip.com^
@@ -7622,9 +7620,6 @@
 ||lin.sfofoyuan.com^
 ||lin777.top/daigou/yrssb.html^
 ||linargogroup.com^
-||line.me/R/ti/g/XmnR3YFdaC^
-||line.me/ti/g2ylcjokl-ycnx5z8otki0sq^
-||line.me/ti/p/sS9--W0PFX^
 ||linea.tw^
 ||link-dex.com^
 ||link.megmgulk.vip^
@@ -9939,7 +9934,6 @@
 ||plattw.birdies.top^
 ||play-google.bohua.site^
 ||play.google-los.com^
-||play.google.com/store/apps/details?id=pro.huobi^
 ||plt.pilot6.com/^
 ||plus.bk-bimax.com/center/#/uc/register^
 ||plus.bk-chb.com/center/#/register^
@@ -11491,9 +11485,6 @@
 ||test123.hwland.com^
 ||test2.wjdlwj.cn/^
 ||test2.wjdlwj.cn/index/user/login.html^
-||testflight.apple.com/join/4fvo2uaN^
-||testflight.apple.com/join/4fvo2uan^
-||testflight.apple.com^
 ||testflight.ch/tf/qmbRpT5V3^
 ||testflight.tfdb.top/hut.html^
 ||testflight.tfdc.top/Bitbank.html^
@@ -20831,7 +20822,6 @@
 ||www.teshops.net^
 ||www.teshwbv.com^
 ||www.tessd.online^
-||www.testflight.apple.com/join/ebvTBGkh^
 ||www.testop.cyou^
 ||www.testop.life^
 ||www.testop.live^
