@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: LowTechFilter TW165 redirect
-! Version: 2026.0205.1
+! Version: 2026.0208.1
 ! Expires: 1 hour
 ! Homepage: https://t.me/AdBlock_TW
 ! ----------------------------------------------------------------------
@@ -1795,7 +1795,6 @@
 ||bit-main.wiki^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit-rsdt.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit-tradexchange.com^$dnsrewrite=NOERROR;A;34.102.218.71
-||bit.LY^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit.aediaaboutup.org^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit.auct.it.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit.cmecoins.life^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1803,7 +1802,6 @@
 ||bit.coin-mn.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit.depopmall.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit.kfcoin.it.com^$dnsrewrite=NOERROR;A;34.102.218.71
-||bit.ly^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit.okxpro.online^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit.phau.it.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bit.svip.name^$dnsrewrite=NOERROR;A;34.102.218.71

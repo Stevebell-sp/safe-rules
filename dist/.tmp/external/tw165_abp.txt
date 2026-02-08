@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: LowTechFilter TW165 abp
-! Version: 2026.0205.1
+! Version: 2026.0208.1
 ! Expires: 1 hour
 ! Homepage: https://t.me/AdBlock_TW
 ! ----------------------------------------------------------------------
@@ -2330,7 +2330,6 @@
 ||bit-main.wiki^
 ||bit-rsdt.com^
 ||bit-tradexchange.com^
-||bit.LY^
 ||bit.aediaaboutup.org^
 ||bit.auct.it.com^
 ||bit.cmecoins.life^
@@ -2338,41 +2337,6 @@
 ||bit.coin-mn.com^
 ||bit.depopmall.com^
 ||bit.kfcoin.it.com^
-||bit.ly/2LwLmi5^
-||bit.ly/2NcYhpY^
-||bit.ly/2THZrw0^
-||bit.ly/2VcPacs^
-||bit.ly/2XUbg5x^
-||bit.ly/2ZaDSMP^
-||bit.ly/2ZaDsmp^
-||bit.ly/2bjxg3p^
-||bit.ly/2hp9uB6^
-||bit.ly/2kn84fx^
-||bit.ly/2nh7CUA^
-||bit.ly/2ximIy3^
-||bit.ly/2ycpIBQ^
-||bit.ly/2yrvmww^
-||bit.ly/2z076Z7^
-||bit.ly/2zOc6Z7^
-||bit.ly/32vh4Ea^
-||bit.ly/359G2dn^
-||bit.ly/35YkwqA^
-||bit.ly/35dsYUI^
-||bit.ly/365wCla^
-||bit.ly/36Ra6g0^
-||bit.ly/38pV8PG^
-||bit.ly/39HQFoA^
-||bit.ly/39WbAnC^
-||bit.ly/3a1fneO^
-||bit.ly/3bHNKhr^
-||bit.ly/3evmO4R/^
-||bit.ly/3fLIFEQ^
-||bit.ly/3jAM5iu^
-||bit.ly/3nQ4yJC^
-||bit.ly/3ppZGKP^
-||bit.ly/T1688^
-||bit.ly/WpliA^
-||bit.ly^
 ||bit.okxpro.online^
 ||bit.phau.it.com^
 ||bit.svip.name^
