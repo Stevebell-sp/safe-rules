@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PAyYPTIQN79to9k+m1CuEA
-! Version: 202602150511
+! Checksum: 3/u0AQZq1FqJDXoudfBJzA
+! Version: 202602160521
 ! Title: EasyList China
-! Last modified: 15 Feb 2026 05:11 UTC
+! Last modified: 16 Feb 2026 05:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1776,11 +1776,19 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||1zdywcgmlt.com^
+||4xdma060ad.com^
+||immaterial79.com^
+||rcjmypjyey.com^
+||xv62yli8iz.com^
+||x35ehot6mu.com^
 ||heuristic95.top^
 ||80753325p.com^
 ||f9bnlbgjf.com^
 ||5w31xv1a2.com^
 ||v8fjvv9o3.com^
+||wbkar038r.com^
+||phuolhogmxin.com^
 ||aa7hzjsow.com^
 ||jh2szzt7n.com^
 ||envision75.com^
@@ -14105,7 +14113,7 @@ douguo.com##.mbs
 pcworks.cn##.md-show
 hk01.com##.md\:min-h-\[90px\]
 redian.news##.md\:w-\[728px\].mx-auto
-1909.me,8se.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
+1909.me,8se.me,crxs.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.mediago-ad-wrapper
 cnool.net##.meilai_box
 qq.com##.member_ads
