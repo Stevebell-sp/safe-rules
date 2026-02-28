@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iHDRrylWZHgWWn2ZsPAb0Q
-! Version: 202602270511
+! Checksum: 5crLe3nIJy1nnERMihktJQ
+! Version: 202602280441
 ! Title: EasyList China
-! Last modified: 27 Feb 2026 05:11 UTC
+! Last modified: 28 Feb 2026 04:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1776,12 +1776,21 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||c9pgryrmt4.com^
+||pj4til72yp.com^
+||inception27.com^
+||bgblsb5s6a.com^
+||jbw4kkuf2y.com^
+||tgdlqeqpbh.com^
 ||muxc8wxhv.com^
 ||z0vogb8ns.com^
 ||jvqo1iiej.com^
 ||contemplate23.top^
 ||1vd2esrss.com^
 ||gu4xxpoe9.com^
+||rltwz2cmo.com^
+||gbiltuj8w.com^
+||fikppvmul.com^
 ||i2fxsez4f0.com^
 ||22eo9qlbpt.com^
 ||pcmxcdjbgo.com^
@@ -17886,7 +17895,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||dn*.ixinwei.com^
 ||dnpz123.com^$third-party
 ||ds.ruanwengfa.com^
-||code.geonamebase.com^
 ||du1.bbdj.com^
 ||edu.jiukang.org^
 ||ee.shixunwang.net^

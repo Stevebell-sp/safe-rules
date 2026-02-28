@@ -742,6 +742,7 @@
 ||ad2.thisisgame.com^
 ||ad8.adfarm1.adition.com/s^
 ||ad999.biz/code/inline.js^
+||adapi.feeldmc.com/ad/
 ||adapi.inlcorp.com/dfp/
 ||adapi.inlcorp.com/kao/
 ||adbiz.co.kr^
@@ -5641,7 +5642,10 @@ m.ygosu.com##div.container>span[style="display:block; padding-top: 15px; padding
 m.ygosu.com##div[id^="ad-container-"]
 m.ygosu.com##ul#article_list>li>a[href^="/board/ad/"]
 m.ygosu.com##ul#article_list>li>div[style="padding-top:15px;padding-bottom:15px"]
-m.yonhapnewstv.co.kr##div#main_banner
+m.yonhapnewstv.co.kr##div.article-body-ad
+m.yonhapnewstv.co.kr##div.view-ad-center
+m.ytn.co.kr##div.bx_ad
+m.ytn.co.kr##div.iwm_ba
 m.zbn.donga.com##iframe[src^="/banner/ad_cauly_hotnews.asp"]
 m.zdnet.co.kr##body>div[style="padding:50px 0px 0px 0px;"]
 m.zdnet.co.kr##div#ad_div_bottom
@@ -6586,11 +6590,11 @@ qq.com##div.adRight
 qq.com##div.adRight280
 qq.com##div.l_qq_com
 quasarzone.com##aside.logo-area
-quasarzone.com##div#bidrich-bbs-bottom
-quasarzone.com##div#bidrich_fix_bottom
-quasarzone.com##div#bidrich_fix_top
-quasarzone.com##div.banner-area
-quasarzone.com##div.banner-wrap
+quasarzone.com##div#venatusHumorTop
+quasarzone.com##div.banner-module-container
+quasarzone.com##div.sponsor-banner-layer-container
+quasarzone.com##div.sponsor-logo-wrap
+quasarzone.com##div[id^="venatusMobile"]
 quora.com##div.ad
 quora.com##div.dom_annotate_ad_image_ad
 quora.com##div.question_page_ad
@@ -7520,6 +7524,7 @@ web.humoruniv.com##div.ad_div
 web.humoruniv.com##iframe[src*="//cache.ggeal.com/banner/"][src*=".html"]
 web.humoruniv.com##iframe[src^="http://web.humoruniv.com/banner/ddn_banner_"][src*=".html"]
 web.humoruniv.com##table#choo
+web.joongna.com#@#ins.adsbygoogle[data-ad-client]:not([data-matched-content-ui-type])
 webins.co.kr##div.container>div>a[href^="/AD/WIADNO/"]
 webpagetest.org##div.headerAd
 webtoon.bamtoki.com##div.banner_wing
@@ -7698,6 +7703,8 @@ yna.co.kr##aside.sticky.bottom-banner
 yna.co.kr##div.aside-top-bnr01
 yna.co.kr##div.wrap-header01
 yonhapnewstv.co.kr##div.ad
+yonhapnewstv.co.kr##div.article-body-ad
+yonhapnewstv.co.kr##div.view-ad-center
 yourdictionary.com##div.definitions-group>div.advertising-container
 ytn.co.kr##div#czone>div[style="overflow:hidden;margin-top:50px;clear:both;background-color:#F5F5F5;height:90px;text-align:center;"]
 ytn.co.kr##div#leftWingBanner
@@ -7711,6 +7718,7 @@ ytn.co.kr##div.ad_newsview_gbox
 ytn.co.kr##div.ad_newsview_text
 ytn.co.kr##div.footerAd
 ytn.co.kr##div.hns_mask_div
+ytn.co.kr##iframe[src^="/inc_banner/"][src$=".php"]
 ytn.co.kr##iframe[src^="/inc_banner/AdServerChange.php"]
 zangsisi.net##body>center
 zangsisi.net##div#fixed-top
