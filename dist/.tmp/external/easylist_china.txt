@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nfwtAaQ6zH6NKrHL0NNfew
-! Version: 202604080542
+! Checksum: 2ERq+904dRBJdQIYrwRRKw
+! Version: 202604090541
 ! Title: EasyList China
-! Last modified: 08 Apr 2026 05:42 UTC
+! Last modified: 09 Apr 2026 05:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1776,6 +1776,14 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||rf23ecvf4.com^
+||zwbngpnpa.com^
+||wubizigeng.com^
+||zlbnjb.icu^
+||txtvrp.icu^
+||jwt18trhq.com^
+||overflow33.com^
+||vtrelphail.com^
 ||ry7icaih0p.com^
 ||ylr1xn2b4i.com^
 ||tvfvxr.icu^
@@ -1788,6 +1796,11 @@ newduba.cn###jq_youxi
 ||ny2oqsu7et.com^
 ||zjjfmf9m3q.com^
 ||fl7i15bxzr.com^
+||akcuqkr.com^
+||mtjaiko.com^
+||uiqyuydt9t.com^
+||hswxsatk7x.com^
+||phulkuhf.com^
 ||gkryjuqq3.com^
 ||biuisz9ss.com^
 ||kd5anwumy.com^
@@ -11247,6 +11260,7 @@ meijutt.*/js/pcjs/
 ||pan0304.com/ads.
 ||mwka.cc/static/gg.
 !------------------------Specific element hiding rules------------------------!
+qq.com##.qzone-carousel-ad
 madou.com###videoPauseBox
 madou.com##a[ref="nofollow sponsored"]
 madou.com##.top-and-banners
