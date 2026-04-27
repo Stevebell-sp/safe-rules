@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RpuQ9PBUkFOZJwpzg31JKQ
-! Version: 202604260602
+! Checksum: M8ss8835IttFv4Niz2nMpQ
+! Version: 202604270621
 ! Title: EasyList China
-! Last modified: 26 Apr 2026 06:02 UTC
+! Last modified: 27 Apr 2026 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1780,6 +1780,15 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||2g8lomzrb.com^
+||49dlt9myv.com^
+||8yo772d29.com^
+||yyhbt.cn^
+||fracture46.com^
+||qkdrsi4et.com^
+||efu871zc4.com^
+||xciryzdnl.com^
+||1adi9wenq.com^
 ||gla3sr9r1m.com^
 ||z93grqmdaq.com^
 ||n4qrsf6x88.com^
@@ -1789,6 +1798,9 @@ newduba.cn###jq_youxi
 ||zwxtfp.icu^
 ||gzsy12348.com^
 ||dqzooska.icu^
+||qgckb3ov46.com^
+||4ro76m7k2n.com^
+||fqk6e78c80.com^
 ||5vs7i3cuc.com^
 ||btlgp4vze.com^
 ||dlbefft.com^
@@ -11248,6 +11260,7 @@ meijutt.*/js/pcjs/
 ||riskbird.com/riskbird-api/guest/unionGoods
 !------------------------Specific element hiding rules------------------------!
 huaren.live##.pause-love
+nfuwow.com##.ad1320top
 doubao.com###activity-entrance-popup-root
 2345.com##.part-banner
 qq.com##.qzone-carousel-ad
@@ -17718,9 +17731,9 @@ jm18c-oec.club,18comic.org,18comic.vip,18comic.ink#?#div[data-group]:-abp-has(>.
 !#7
 !#8
 !#91porny.com
-xinhua348.com,xinhua110.com,91porny.org,jstv600.com##.footer + .block
-xinhua348.com,xinhua110.com,91porny.org,jstv600.com#?#.card:-abp-has(>.card-image>a[href^="http"])
-xinhua348.com,xinhua110.com,91porny.org,jstv600.com###main > div[id^="rd"]
+xinhua348.com,jstv42.site,91porny.org,jstv600.com##.footer + .block
+xinhua348.com,jstv42.site,91porny.org,jstv600.com#?#.card:-abp-has(>.card-image>a[href^="http"])
+xinhua348.com,jstv42.site,91porny.org,jstv600.com###main > div[id^="rd"]
 !
 ###playerJsvLayer.jsv-layer
 91porny.com##.container-fluid.p-0[class*="mb-"]
