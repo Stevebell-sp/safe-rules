@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HSTN9x7HAUx3UVLcugTvaw
-! Version: 202606180841
+! Checksum: YSfn7Hp/+EtW0nAQTKcGbQ
+! Version: 202606190852
 ! Title: EasyList China
-! Last modified: 18 Jun 2026 08:41 UTC
+! Last modified: 19 Jun 2026 08:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1779,6 +1779,15 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||1cimslrk3.com^
+||gie0izinx.com^
+||quotient75.com^
+||rdntpbeivqbjhi.com^
+||nhwqjyn.icu^
+||lvykdmk.icu^
+||qzgn652dp.com^
+||adiy42o0w.com^
+||qphlllvgt.com^
 ||bjsr03odzu.com^
 ||rhaol5omof.com^
 ||gklsfigkom.com^
@@ -1788,6 +1797,10 @@ newduba.cn###jq_youxi
 ||10eni3ogoo.com^
 ||gun2v2neoo.com^
 ||c6nxtri65t.com^
+||bikemanw.com^
+||ut5hnwzebu.com^
+||8cjk04e7sb.com^
+||p6q6qpze3f.com^
 ||remainder38.com^
 ||11rhol0ni.com^
 ||fwbdfg5n6.com^
@@ -11451,6 +11464,9 @@ meijutt.*/js/pcjs/
 ||r3sub.com/nb/
 !------------------------Specific element hiding rules------------------------!
 huaren.live##.pause-love
+jucha.com##.money_item
+mixytalk.com##.result-inline-ad
+mixytalk.com###ad-interstitial
 69tang.org##a[id^="imgs_link"]
 techritual.com##.th-single-ad
 xchina.co##.photo-items > .auto-height
@@ -18419,7 +18435,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||daima.diaoben.net^
 ||daima.ijq.tv^
 ||daima.ysdui.com^
-||daima.yuzhulin.com^
+||daima.yggk.net^
 ||daiwofei2019.top^
 ||data.waptime.cn^
 ||datas.tianqistatic.com^
