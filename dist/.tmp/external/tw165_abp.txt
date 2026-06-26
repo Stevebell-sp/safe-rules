@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: LowTechFilter TW165 abp
-! Version: 2026.0624.1
+! Version: 2026.0626.1
 ! Expires: 1 hour
 ! Homepage: https://t.me/AdBlock_TW
 ! ----------------------------------------------------------------------
@@ -275,6 +275,7 @@
 ||8.seashop99.com^
 ||800.baowang5788.net^
 ||800.bolee666.com^
+||804296c38011e438dfdfd6ef458f5eb3.0126irg.shop^
 ||8053b6.aqhdbgbo.com/wl85n7w3^
 ||81-trustfunds.com^
 ||81286.com^
@@ -1101,6 +1102,7 @@
 ||api.nrmafg.com^
 ||api.tbhjascb.com^
 ||api.znahwbeqhsxiij.com^
+||apis6.wgnb.uk^
 ||apk.aave-tw.com^
 ||apk.mercury-energy.vip^
 ||apk.pgec-energy.com^
@@ -2276,6 +2278,7 @@
 ||belc.bellagioweb.vip^
 ||bellmoforfx.com^
 ||bellmonfx.com^
+||bellpotterasia-app-down.appdown.store^
 ||bellymart.shop^
 ||belmoria.vip^
 ||belong.swebtw.com^
@@ -2327,6 +2330,7 @@
 ||bf72j1.yn8q6fe3dqa2.cc^
 ||bf77.site^
 ||bflbkd.we888.net^
+||bfnht.syekliqo.com/zzjzyqw1^
 ||bfose.dfcinto.com/^
 ||bfp.mxproo.com/^
 ||bfsbanactw.com^
@@ -2436,7 +2440,9 @@
 ||binice.net/^
 ||binice.net/el_GR/cms/about^
 ||binice.net^
+||bintfnb.com^
 ||biosnippets.com/^
+||biproto.one^
 ||biqk.we5888.net^
 ||birginmary.msbrandong.com/^
 ||bit-9158.net^
@@ -2675,6 +2681,7 @@
 ||bizoc.btfinnetw.top^
 ||bizoc.btfnets.top^
 ||biztradecoin.com^
+||bj.citis30862.com^
 ||bjtk.tw.webbai15.xyz^
 ||bjwex300.com/^
 ||bjwex300.com^
@@ -2855,6 +2862,7 @@
 ||bsb.heihn.com/^
 ||bsc-defi.com^
 ||bsep.gmo.com.tw^
+||bsparsex.pro^
 ||bstaceusdt.com^
 ||bstbtccmax.com^
 ||bstdoup.qian.kbai.tw/#/register/ACOuMMiD^
@@ -3305,6 +3313,7 @@
 ||chainceinfoex.top^
 ||chainhub.bond^
 ||chainokdc.com^
+||chainpulseke.com^
 ||chainpulsekt.com^
 ||chairishasia.shop^
 ||chairishasia.xyz^
@@ -3470,6 +3479,7 @@
 ||cmenyse.com^
 ||cmetw.com^
 ||cmeunit.com^
+||cmeupon.com^
 ||cmex.fhefnpa.cn/indexcme.html^
 ||cmezoom.com^
 ||cmivcp.com/^
@@ -3525,6 +3535,7 @@
 ||coin.bnan680.com^
 ||coin.gaiaaex.com^
 ||coin.nyseavehk.com^
+||coin.redwiremiop.com^
 ||coin.uzaxcd.com^
 ||coin2.skotc.net/^
 ||coin2.skotc.net^
@@ -3732,6 +3743,7 @@
 ||cow4stock.com/index/login/signin^
 ||cox.lianfavc.com^
 ||cox.staioiled.com^
+||cozzinhomax.pro^
 ||cpatexcr.com^
 ||cpatexdc.com^
 ||cpatexrsd.com^
@@ -4118,6 +4130,7 @@
 ||dafesx.vip^
 ||dahaipost.com^
 ||daheasset.com^
+||dahejz.com^
 ||daisobackstagh.com^
 ||daisobackstagm.com^
 ||daisojapanb.com^
@@ -4181,6 +4194,7 @@
 ||datahydrugcvy.com^
 ||datahydruihv.com^
 ||datahydruini.com^
+||datahydrukdr.com^
 ||datahydrulkm.com^
 ||datahydruon.com^
 ||datahydrupee.com^
@@ -4745,6 +4759,7 @@
 ||ds5858.net/^
 ||ds5858.net^
 ||dsenglobal.com^
+||dsffsh.ganarplus.com^
 ||dsffx.cn^
 ||dsfsdgdsh.com/Pc/Index/index.html^
 ||dsgj1188.com^
@@ -4982,6 +4997,7 @@
 ||elb.genesbo.com^
 ||elf.alconaster.com^
 ||elfdcjj.com^
+||eliice.com^
 ||elite.ffupure9.com^
 ||elite.ffuture9.com/login^
 ||elite.ffuture9.com^
@@ -5157,6 +5173,7 @@
 ||everythingmallm.top^
 ||everythingmallx.vip^
 ||everythingshop.top^
+||evoliiqoprop.top^
 ||ew-index.com/^
 ||ew-index.com/tw.html^
 ||ew-index.com^
@@ -5442,6 +5459,7 @@
 ||fidelityzh.tw^
 ||fiduciary.haaln.com/login^
 ||fiduclow.com^
+||fiduclow.top^
 ||fightonco.com^
 ||fightoninv.com^
 ||fightonstocks.com^
@@ -5887,6 +5905,7 @@
 ||gates.ioacp.com^
 ||gather888.net^
 ||gatxq.top^
+||gatxw.top^
 ||gb.anygaladay.com/#/purchase^
 ||gbay-shops.online^
 ||gbebrokersasialtd.com^
@@ -6199,6 +6218,7 @@
 ||govloog.xyz^
 ||gowtplengw.xyz^
 ||goxrex.com^
+||gprnt.vip^
 ||gptcity.co^
 ||gpu-etf-web3.cc^
 ||gpu-etf-web3.com^
@@ -6578,6 +6598,7 @@
 ||h5.lqsixsq.com^
 ||h5.lqsixsy.com^
 ||h5.lqsixt.com^
+||h5.lqsixtt.com^
 ||h5.lqsixx.com^
 ||h5.lqsjxcoin.com^
 ||h5.lqsjxd.com^
@@ -6682,6 +6703,7 @@
 ||h5.vanguardokx.site^
 ||h5.venaqcex.com^
 ||h5.venaqute.com^
+||h5.vertexprotocol.lat^
 ||h5.vertexprotocol.mom^
 ||h5.vtptrade.com^
 ||h5.wbexb.com^
@@ -6789,6 +6811,8 @@
 ||headstock8.com^
 ||healpicrdx.com^
 ||heartofgood.com^
+||heartsbeatg.com^
+||heartshomec.com^
 ||heartstorem.com^
 ||hebuyong.top/^
 ||hebuyong.top/index.php/Download/app_download/code/cncxb.html?l=tw^
@@ -7735,6 +7759,7 @@
 ||jzjlfz.com^
 ||jzmarkets.com^
 ||jzs833.com^
+||k.citis58130.com^
 ||k.cmnae.com/^
 ||k.cmnae.com^
 ||k.kimbe777.net/^
@@ -8018,6 +8043,7 @@
 ||l.fkczi.top/?openExternalBrowser=1^
 ||l.fkczi.top^
 ||l.polygontsnew.com^
+||l92j9b39p.3rxrsbr96.com^
 ||la.topgold66.xyz/m/login^
 ||lacoinsmax.googles.vc^
 ||laevx.com^
@@ -8061,6 +8087,7 @@
 ||lb997.menrm.com/^
 ||lbjils.com^
 ||lbjudaf.com^
+||lbmal.azureedge.net^
 ||lbvuid.com^
 ||lc.lcwebs.top^
 ||lc.maooam.cn/^
@@ -8231,6 +8258,7 @@
 ||lives-rate-tw.vip^
 ||livetraders.vip^
 ||livjunnnn.com^
+||lixqerantovax.com^
 ||lj.am89.xyz^
 ||lk.mxtrad.net/logout^
 ||lk.mxtrad.net^
@@ -8242,6 +8270,7 @@
 ||llzz.taiyi1788.com^
 ||lmelt.com^
 ||lmelte.com^
+||lmonx.com^
 ||lmtw886.com^
 ||lnminousweb.com^
 ||lnminousweb.info^
@@ -8524,6 +8553,7 @@
 ||m.bitbx-cha.lol^
 ||m.bitbx-cha.sbs^
 ||m.bite-mhavip.com^
+||m.bitex-web3.help^
 ||m.bitex-web3.life^
 ||m.bitex-web3.top^
 ||m.bitexs.ink^
@@ -8600,6 +8630,7 @@
 ||m.coinexeu.online^
 ||m.coinfinel.link^
 ||m.coinparks.net^
+||m.coinpil.com^
 ||m.coinpotex.com^
 ||m.coinsancex.com^
 ||m.coinshouseltd.com^
@@ -8703,6 +8734,7 @@
 ||m.galaxusc.com^
 ||m.galaxusco.com^
 ||m.galaxusf.com/www^
+||m.galaxusph.com^
 ||m.galaxust.com^
 ||m.gbjtl.xyz^
 ||m.geekshop.cloud^
@@ -8762,6 +8794,7 @@
 ||m.ivdhhg.top/app999^
 ||m.iwoffq.top/h509^
 ||m.ixnah.top/h509^
+||m.jaccm-tu.one^
 ||m.jardenus.com^
 ||m.jardenxm.com^
 ||m.jdghct.top/app999^
@@ -9260,6 +9293,7 @@
 ||market-shops.shop^
 ||market-shops.xyz^
 ||market.ztam.net/^
+||market1.bfxtrade.top^
 ||market3.bfxtrade.top^
 ||market4global.shop^
 ||marketbrkm.com^
@@ -9557,6 +9591,7 @@
 ||mimimefo.com^
 ||min5.kpcb99.com/login^
 ||minhex.com^
+||mini-info.vip^
 ||mining2022.pro^
 ||mintornbank.ltd^
 ||minwgl.live^
@@ -9997,7 +10032,9 @@
 ||neuroautbd.com^
 ||neuroautbg.com^
 ||neuroautbk.com^
+||neuroautca.com^
 ||neuroautcf.com^
+||neuroautct.com^
 ||neuroautoc.com^
 ||neuroautod.com^
 ||neuroautoi.com^
@@ -10567,6 +10604,7 @@
 ||paxg.tw^
 ||paxos.vip/h5^
 ||paxos.vip^
+||paxoscfdbt.com^
 ||paxosest.com^
 ||pay.ufo.tw/mPay/?AB2KC33BZG0049^
 ||pay.ufo.tw^
@@ -10604,6 +10642,8 @@
 ||pc.nexotradexpro.cc^
 ||pc.oexnn.com^
 ||pc.ofcompany.cc^
+||pc.riotplat.com^
+||pc.ripio-por.net^
 ||pc.riverglobalfx.com^
 ||pc.saxoltd.cc^
 ||pc.singulardexfx.cc^
@@ -10850,6 +10890,7 @@
 ||priderockmarket.com^
 ||priderocktw.com^
 ||primeblock-trading.com^
+||primexbta.net^
 ||printemok.com^
 ||printemop.com^
 ||printempro.com^
@@ -11026,6 +11067,7 @@
 ||qt.nbbuyxgcxe40.cc^
 ||qt.ndnshdh.cc^
 ||qt.pdshd.cc^
+||qt.piohfjhjs46.cc^
 ||qt.sdnsdsffs.cc^
 ||qt.thdsnf.cc^
 ||qt.tifdkjfgjxe39.cc^
@@ -11033,6 +11075,8 @@
 ||qt.uidsjfjfjsf.cc^
 ||qt.uydsbf.cc^
 ||qt.vbdgsf.cc^
+||qt.vbdsgfgsd.cc^
+||qt.wobirk.cc^
 ||qt.yh3588.xyz^
 ||qt.yhdshbd.cc^
 ||qt.yhdshbfd.cc^
@@ -11728,6 +11772,7 @@
 ||shopbuywish.com^
 ||shopckk.com^
 ||shopconch.com^
+||shopcpviipc.com^
 ||shopdang.com^
 ||shopdewu.com^
 ||shopee.idv.tw/^
@@ -11751,6 +11796,7 @@
 ||shopliren.top^
 ||shoplivero.top^
 ||shoplocal.top^
+||shoplohaco.com^
 ||shopmarvintelx.top^
 ||shopocadomall.com^
 ||shoponasia.com^
@@ -12373,6 +12419,7 @@
 ||tatagome.com^
 ||tathragroup.com^
 ||taurusbtcai.com^
+||tavironexvalra.com^
 ||tb.bshge.group^
 ||tb01.vtetftradex.com^
 ||tb657.com^
@@ -12558,6 +12605,7 @@
 ||thomasnet.top^
 ||thrifty.waytecics.com^
 ||thunesxtrading.click^
+||thunesxtrading.cyou^
 ||thunesxtrading.xyz^
 ||thyralvenostria.com^
 ||ti.ttxnxjn.qpon^
@@ -12588,6 +12636,7 @@
 ||tikk-shop.net/h5^
 ||tikmalles.top/www^
 ||tikmalles.top^
+||tikmallfjl.top/www^
 ||tikmallod.top/www^
 ||tikoaes.com^
 ||tiktok-app.pics^
@@ -12642,6 +12691,7 @@
 ||tk.mallaeg.vip^
 ||tk.malllegend.com^
 ||tk.mrkglrv.com/h890^
+||tk.okmarket.vip^
 ||tk.sasmall.vip^
 ||tk.tc.nexusmarket.solutions^
 ||tk.tnsa.top^
@@ -12702,6 +12752,7 @@
 ||tobuyerspc24.com/nb3310c^
 ||toeia.jp^
 ||toeies.jp^
+||toeik.jp^
 ||toeiweb.jp^
 ||tog.cmetw10.com.tw^
 ||tog.globalume.com^
@@ -13030,6 +13081,7 @@
 ||tsk88990008.tsk8899.net^
 ||tslsalesvolumedlzq.com^
 ||tsmcxc.cc^
+||tsmcxx.com^
 ||tspro.pro^
 ||tspwbji.com^
 ||tssfx.online^
@@ -13456,6 +13508,7 @@
 ||ueglha.top^
 ||ueglhk9165.top^
 ||uekd.vip^
+||uev.esnmall.com^
 ||ufreemalls.com^
 ||ufuex.djebw.com/wap^
 ||ufuex.favnit.com/wap^
@@ -13465,6 +13518,7 @@
 ||ufuex.oebhav.com^
 ||uh-und.com/^
 ||uh178888.com/?superior=AG0000302758^
+||uhhuebwb.ai-sctt.com^
 ||uibuygv.com^
 ||uindweb.com^
 ||uiz888.fslaitech.com/^
@@ -13575,6 +13629,7 @@
 ||usdt-flow.org^
 ||usdt-miner.com^
 ||usdt-quantify.com^
+||usdt.dappout.vip^
 ||usdt.sundapp.vip^
 ||usdt168.bmccop.com^
 ||usdtflow.me^
@@ -13597,6 +13652,7 @@
 ||user.bcpmarkets.com/^
 ||user.bdgvip.com^
 ||user.biggloballtd.com^
+||user.easymarketsltd.vip^
 ||user.flourisifx.com^
 ||user.fortuneever-gl.com/^
 ||user.fortuneever-gl.com^
@@ -13740,6 +13796,7 @@
 ||vdsdbag.com^
 ||vdvds.rcv6owo.life^
 ||vechains.net^
+||velanthorionis.com^
 ||velantrix-aion.com^
 ||velcrynothalis.com^
 ||velocity.ahead9.com^
@@ -13798,6 +13855,7 @@
 ||vip.bjxfdmc.top^
 ||vip.cashgocoin.xyz^
 ||vip.citics3013.com^
+||vip.citics5388.com^
 ||vip.citics7128.com^
 ||vip.citis12568.com^
 ||vip.clyra.sbs^
@@ -13939,6 +13997,7 @@
 ||vxceshop.com^
 ||vylsb.com/h5^
 ||vyracude.com^
+||vyracude.top^
 ||w.aliexpshool.vip^
 ||w.avxgb.xyz^
 ||w.bitflerapp.top^
@@ -14143,6 +14202,7 @@
 ||warncrbros.com^
 ||wasd.tanakasky.com^
 ||wat.pkexpp.vip/^
+||watonhealth.com^
 ||wavehubderiivativas.com^
 ||waw.hsecan.com^
 ||waw.hsecui.com^
@@ -14158,6 +14218,7 @@
 ||wc.igmarke.com/^
 ||wc.mitr9.com^
 ||wccy269.top^
+||wcodgak.cc^
 ||wcodgak.xyz^
 ||wcr.oilvtcs.com^
 ||wd.hjswd.top^
@@ -14298,6 +14359,7 @@
 ||web.tw04dhxs.vip^
 ||web.tw04shdx.vip^
 ||web.twpental.cc^
+||web.twpentam.cc^
 ||web.twpentaz.cc^
 ||web.upbittwndivision.com^
 ||web.weakthswap.com^
@@ -15280,6 +15342,7 @@
 ||www.axihjr.com^
 ||www.axiifu.com^
 ||www.axiikm.com^
+||www.axijhh.com^
 ||www.axijue.com^
 ||www.axiklt.com^
 ||www.axiooi.com^
@@ -15394,6 +15457,7 @@
 ||www.basinvs.com^
 ||www.bastiocon.com^
 ||www.bastioncbx.com^
+||www.bastiondh.com^
 ||www.bastionikt.com^
 ||www.bastionjsm.com^
 ||www.bastionxdr.com^
@@ -15455,6 +15519,7 @@
 ||www.bellmoforex.com^
 ||www.benchz.top/app999^
 ||www.benorvasy.cc/h5^
+||www.beorondhaa.cc^
 ||www.beoronurss.cc^
 ||www.beorsuvzt.cc^
 ||www.bepumarkets.com^
@@ -17599,7 +17664,170 @@
 ||www.faacoo.shop^
 ||www.facebok3.com^
 ||www.facebook.com/EnaiAuto/^
+||www.facebook.com/JasimWolfPlays/^
 ||www.facebook.com/LeoLoninvestment/^
+||www.facebook.com/ads/library/?id=1001587599464511^
+||www.facebook.com/ads/library/?id=1004781262275961^
+||www.facebook.com/ads/library/?id=1005141749095703^
+||www.facebook.com/ads/library/?id=1005471599108327^
+||www.facebook.com/ads/library/?id=1005595252205255^
+||www.facebook.com/ads/library/?id=1006637385555101^
+||www.facebook.com/ads/library/?id=1007351048543845^
+||www.facebook.com/ads/library/?id=1009563668231153^
+||www.facebook.com/ads/library/?id=1013809934338190^
+||www.facebook.com/ads/library/?id=1015327294684375^
+||www.facebook.com/ads/library/?id=1020268797050870^
+||www.facebook.com/ads/library/?id=1024227800608759^
+||www.facebook.com/ads/library/?id=1028288923121244^
+||www.facebook.com/ads/library/?id=1039329051961538^
+||www.facebook.com/ads/library/?id=1047436424300258^
+||www.facebook.com/ads/library/?id=1050287250843285^
+||www.facebook.com/ads/library/?id=1082745067611491^
+||www.facebook.com/ads/library/?id=120249726882200228^
+||www.facebook.com/ads/library/?id=1286957916755343^
+||www.facebook.com/ads/library/?id=1291830879690978^
+||www.facebook.com/ads/library/?id=1305188291661936^
+||www.facebook.com/ads/library/?id=1317450859998839^
+||www.facebook.com/ads/library/?id=1317684553325496^
+||www.facebook.com/ads/library/?id=1317880073251242^
+||www.facebook.com/ads/library/?id=1326353362808954^
+||www.facebook.com/ads/library/?id=1332670891591234^
+||www.facebook.com/ads/library/?id=1338796125020233^
+||www.facebook.com/ads/library/?id=1339729028093442^
+||www.facebook.com/ads/library/?id=1348659240568805^
+||www.facebook.com/ads/library/?id=1352853940132270^
+||www.facebook.com/ads/library/?id=1356191783109843^
+||www.facebook.com/ads/library/?id=1356641993003453^
+||www.facebook.com/ads/library/?id=1360667412826553^
+||www.facebook.com/ads/library/?id=1381554397362520^
+||www.facebook.com/ads/library/?id=1389026683054684^
+||www.facebook.com/ads/library/?id=1441127077818539^
+||www.facebook.com/ads/library/?id=1446176837268213^
+||www.facebook.com/ads/library/?id=1478507256896582^
+||www.facebook.com/ads/library/?id=1481266147052489^
+||www.facebook.com/ads/library/?id=1484609116307317^
+||www.facebook.com/ads/library/?id=1489867895767877^
+||www.facebook.com/ads/library/?id=1507693604172335^
+||www.facebook.com/ads/library/?id=1509825417536669^
+||www.facebook.com/ads/library/?id=1518670306725499^
+||www.facebook.com/ads/library/?id=1522880849281301^
+||www.facebook.com/ads/library/?id=1529031562033890^
+||www.facebook.com/ads/library/?id=1530060122181409^
+||www.facebook.com/ads/library/?id=1531688278461065^
+||www.facebook.com/ads/library/?id=1533161244864683^
+||www.facebook.com/ads/library/?id=1533825361545707^
+||www.facebook.com/ads/library/?id=1539949717861744^
+||www.facebook.com/ads/library/?id=1542879197334786^
+||www.facebook.com/ads/library/?id=1543937250457043^
+||www.facebook.com/ads/library/?id=1550674103431216^
+||www.facebook.com/ads/library/?id=1554220602735235^
+||www.facebook.com/ads/library/?id=1556180455850299^
+||www.facebook.com/ads/library/?id=1562621345293300^
+||www.facebook.com/ads/library/?id=1573845784302005^
+||www.facebook.com/ads/library/?id=1574613877515385^
+||www.facebook.com/ads/library/?id=1576744330775471^
+||www.facebook.com/ads/library/?id=1578489433839122^
+||www.facebook.com/ads/library/?id=1583418233182274^
+||www.facebook.com/ads/library/?id=1588730565979608^
+||www.facebook.com/ads/library/?id=1656850155395942^
+||www.facebook.com/ads/library/?id=1669285107641627^
+||www.facebook.com/ads/library/?id=1674908477116820^
+||www.facebook.com/ads/library/?id=1676514220274296^
+||www.facebook.com/ads/library/?id=1689838458923153^
+||www.facebook.com/ads/library/?id=1707938913732560^
+||www.facebook.com/ads/library/?id=1710423136867368^
+||www.facebook.com/ads/library/?id=1718130115887438^
+||www.facebook.com/ads/library/?id=1731472038008548^
+||www.facebook.com/ads/library/?id=1754845515862410^
+||www.facebook.com/ads/library/?id=1757094125737209^
+||www.facebook.com/ads/library/?id=1759402738761493^
+||www.facebook.com/ads/library/?id=1763239481521436^
+||www.facebook.com/ads/library/?id=1778095053371984^
+||www.facebook.com/ads/library/?id=1781964252851353^
+||www.facebook.com/ads/library/?id=1793449281640082^
+||www.facebook.com/ads/library/?id=1820210199348348^
+||www.facebook.com/ads/library/?id=1901813064068641^
+||www.facebook.com/ads/library/?id=1951207038890646^
+||www.facebook.com/ads/library/?id=1951629852149036^
+||www.facebook.com/ads/library/?id=1997150647559696^
+||www.facebook.com/ads/library/?id=2008505836434608^
+||www.facebook.com/ads/library/?id=2049780679225731^
+||www.facebook.com/ads/library/?id=2051497432909162^
+||www.facebook.com/ads/library/?id=2054321591863244^
+||www.facebook.com/ads/library/?id=2054549425438835^
+||www.facebook.com/ads/library/?id=2070034753867735^
+||www.facebook.com/ads/library/?id=2084869145709898^
+||www.facebook.com/ads/library/?id=2088911052059101^
+||www.facebook.com/ads/library/?id=2092457454671039^
+||www.facebook.com/ads/library/?id=2116284043106132^
+||www.facebook.com/ads/library/?id=2121527671725913^
+||www.facebook.com/ads/library/?id=2123631751871578^
+||www.facebook.com/ads/library/?id=2126116581662637^
+||www.facebook.com/ads/library/?id=2135140150402182^
+||www.facebook.com/ads/library/?id=2195836000955206^
+||www.facebook.com/ads/library/?id=2210261303144945^
+||www.facebook.com/ads/library/?id=2226429478124165^
+||www.facebook.com/ads/library/?id=2409748652863411^
+||www.facebook.com/ads/library/?id=2442816056196376^
+||www.facebook.com/ads/library/?id=2443412529492528^
+||www.facebook.com/ads/library/?id=2449096748893280^
+||www.facebook.com/ads/library/?id=2453270318485134^
+||www.facebook.com/ads/library/?id=2507334563084457^
+||www.facebook.com/ads/library/?id=2545604909212808^
+||www.facebook.com/ads/library/?id=25700917092939629^
+||www.facebook.com/ads/library/?id=26660629266948687^
+||www.facebook.com/ads/library/?id=27154297867546414^
+||www.facebook.com/ads/library/?id=27631332663170506^
+||www.facebook.com/ads/library/?id=2783528842020984^
+||www.facebook.com/ads/library/?id=2862681297408997^
+||www.facebook.com/ads/library/?id=3068126403397339^
+||www.facebook.com/ads/library/?id=3260295004154789^
+||www.facebook.com/ads/library/?id=36426104247036457^
+||www.facebook.com/ads/library/?id=3975732356063595^
+||www.facebook.com/ads/library/?id=4021238618168738^
+||www.facebook.com/ads/library/?id=4217654075114088^
+||www.facebook.com/ads/library/?id=4287372731515073^
+||www.facebook.com/ads/library/?id=4288744274671050^
+||www.facebook.com/ads/library/?id=4409013025988957^
+||www.facebook.com/ads/library/?id=4494252090809502^
+||www.facebook.com/ads/library/?id=4497323883928916^
+||www.facebook.com/ads/library/?id=4764137287206230^
+||www.facebook.com/ads/library/?id=52614581073239^
+||www.facebook.com/ads/library/?id=900241142332276^
+||www.facebook.com/ads/library/?id=907972559002438^
+||www.facebook.com/ads/library/?id=917585351370625^
+||www.facebook.com/ads/library/?id=935920092792184^
+||www.facebook.com/ads/library/?id=956450813616178^
+||www.facebook.com/ads/library/?id=957699340627566^
+||www.facebook.com/ads/library/?id=976394668597411^
+||www.facebook.com/ads/library/?id=976589468340856^
+||www.facebook.com/ads/library/?id=988302087316372^
+||www.facebook.com/ads/library/?id=989957277173525^
+||www.facebook.com/ads/library/?id=994328033369052^
+||www.facebook.com/ads/library/?id=995512046729410^
+||www.facebook.com/ads/library/?id=996032729850649^
+||www.facebook.com/ads/library/?id=996625829847583^
+||www.facebook.com/ads/library/?id=998805242791440^
+||www.facebook.com/kumirpara/^
+||www.facebook.com/profile.php?id=100063619809021^
+||www.facebook.com/profile.php?id=100089238353481^
+||www.facebook.com/profile.php?id=100094069004201^
+||www.facebook.com/profile.php?id=61550578186099^
+||www.facebook.com/profile.php?id=61551565748856^
+||www.facebook.com/profile.php?id=61552581437090^
+||www.facebook.com/profile.php?id=61553441668939^
+||www.facebook.com/profile.php?id=61578412737946^
+||www.facebook.com/profile.php?id=61578793354996^
+||www.facebook.com/profile.php?id=61585392501474^
+||www.facebook.com/profile.php?id=61590221356542^
+||www.facebook.com/profile.php?id=61590419954699^
+||www.facebook.com/profile.php?id=61590470445684^
+||www.facebook.com/profile.php?id=61590624879424^
+||www.facebook.com/profile.php?id=61590781292708^
+||www.facebook.com/profile.php?id=61590799935122^
+||www.facebook.com/profile.php?id=61590879639340^
+||www.facebook.com/profile.php?id=61590957894271^
+||www.facebook.com/profile.php?id=61591265483195^
 ||www.facebookpush.tw^
 ||www.facilityma.com^
 ||www.fackbk2.com^
@@ -18002,6 +18230,7 @@
 ||www.functional-start.xin^
 ||www.functionall-start.com^
 ||www.funderprom.com^
+||www.fungifyzah.com^
 ||www.fungifyzjh.com^
 ||www.funska.vip^
 ||www.fuquacapitals.com^
@@ -18301,6 +18530,7 @@
 ||www.gjtz888.com/index.html#investment-section^
 ||www.gjtz888.com^
 ||www.gjxsked.com^
+||www.gkfx01.com^
 ||www.gkfxprime.com.tw/^
 ||www.gkfxtw.com^
 ||www.gkfxtws.com/zh-hk/^
@@ -18553,6 +18783,7 @@
 ||www.gycunz.icu^
 ||www.gyuwbb.com^
 ||www.gyym226.com/mobile^
+||www.gzyzrgbd.com^
 ||www.h-hope-fire.xin^
 ||www.h-proex.net^
 ||www.h1jtech.com/^
@@ -18582,6 +18813,7 @@
 ||www.harvardnodeim.com^
 ||www.hashkeysdg.com^
 ||www.hashmnl.com^
+||www.hashoup.com^
 ||www.hashrex.top^
 ||www.hashvks.com^
 ||www.haskeyced.com^
@@ -18687,6 +18919,7 @@
 ||www.hifly09826.top^
 ||www.hifly92093.top^
 ||www.hiforey.com^
+||www.higher-h.com^
 ||www.higher4tran.com^
 ||www.highlevel4dc.com/^
 ||www.hipi8889.com^
@@ -18848,6 +19081,7 @@
 ||www.hsuansa885.top^
 ||www.hsvhdk.com^
 ||www.hsywg2145.top^
+||www.ht-bx.site^
 ||www.htchk.co^
 ||www.htigerglobalgj.com^
 ||www.htmlco3.com^
@@ -19305,6 +19539,7 @@
 ||www.jnulouis.com^
 ||www.jnvenqnda.com^
 ||www.jobhunnew.com^
+||www.jobhuntingtw.com^
 ||www.jobinformation.xyz^
 ||www.jobmessage.xyz^
 ||www.jobpasstw.xyz^
@@ -19339,6 +19574,7 @@
 ||www.jptz008.com^
 ||www.jpx-coin.com^
 ||www.jpzymetal.com^
+||www.jqxcnv.com^
 ||www.jqxexe.com^
 ||www.jqxpkw.com^
 ||www.jrison.xyz^
@@ -20538,6 +20774,7 @@
 ||www.mugame.hk/index/usder/login/2.html^
 ||www.mugdctptoken.com^
 ||www.muousew.com^
+||www.musinsamaxtw.com^
 ||www.musstafa-886.com^
 ||www.musstafatw.com^
 ||www.mustershop.com^
@@ -20671,6 +20908,7 @@
 ||www.nexdaxqwrn.com^
 ||www.nexnex.top/^
 ||www.nexnex.top^
+||www.nexoraitaiwan.com^
 ||www.nexova-tradingx.xin^
 ||www.nexquotations.com^
 ||www.nexss.vip/download.aspx^
@@ -20787,6 +21025,7 @@
 ||www.nsxtw.com^
 ||www.ntdseu.com^
 ||www.ntop-ntop.com^
+||www.ntop-ntpop.top^
 ||www.ntop.cc^
 ||www.ntop.click^
 ||www.ntop.lol^
@@ -20846,6 +21085,7 @@
 ||www.oanda886.com/^
 ||www.oandabzb.com^
 ||www.oandaiou.com^
+||www.oandajdw.com^
 ||www.oandajsk.com^
 ||www.oandartw.com/^
 ||www.oandartw.com^
@@ -21345,6 +21585,7 @@
 ||www.poyabuypp.com^
 ||www.poyabuysa.com^
 ||www.poyabuysd.com^
+||www.poyabuysewm.com^
 ||www.poyabuyshop.com^
 ||www.poyabuysjw.com^
 ||www.poyabuystaff.com^
@@ -21554,6 +21795,7 @@
 ||www.quanyong-investor.com^
 ||www.quanyong-investor.forex^
 ||www.quanyong-trade.com^
+||www.quanyong-trading.com^
 ||www.quanyong.forex^
 ||www.quanyong.fund^
 ||www.quedex-io.com^
@@ -21633,6 +21875,7 @@
 ||www.rdjtfdc.com^
 ||www.rdvcwd.xyz^
 ||www.readstock8.com/^
+||www.realbhnx.com^
 ||www.realbitus.vip^
 ||www.realoopufx.com^
 ||www.rebetestore.com^
@@ -22468,6 +22711,7 @@
 ||www.storenvy-wholesale.com^
 ||www.stpitrus.com^
 ||www.stplfx.net/^
+||www.strataerc.com^
 ||www.strategicglobale.com^
 ||www.stripextradesdy.com^
 ||www.stripextrant.com^
@@ -22684,6 +22928,7 @@
 ||www.tebbitgye.com^
 ||www.tebbitjdw.com^
 ||www.tebitjzr.com^
+||www.tebitzaj.com^
 ||www.tec896.com^
 ||www.tec899.com^
 ||www.technovak.com^
@@ -23239,6 +23484,7 @@
 ||www.twkyrd.com^
 ||www.twkyud.com^
 ||www.twlegou.com^
+||www.twlinio.com^
 ||www.twloapz.com^
 ||www.twlotterys.com^
 ||www.twlycenters.top^
@@ -23480,6 +23726,7 @@
 ||www.ungyn.com^
 ||www.uni-financeplus.com^
 ||www.uni-maxpro.com^
+||www.unikiber.com^
 ||www.unikyber.com^
 ||www.unionshopee.cfd^
 ||www.uniplusdefi.com^
@@ -23833,6 +24080,7 @@
 ||www.wallateakiq.com^
 ||www.wallathrj.com^
 ||www.wallathvj.com^
+||www.wallatjjv.com^
 ||www.wallatkyxba.com^
 ||www.wallatokq.com^
 ||www.wallatokx.com^
@@ -23891,6 +24139,7 @@
 ||www.wantai-easy.com/^
 ||www.waosgfg.com^
 ||www.warelyshop-arena.store^
+||www.warelyshop-base.store^
 ||www.warelyshop-nest.store^
 ||www.warelyshop-rack.store^
 ||www.warelyshop-shelf.store^
@@ -23976,6 +24225,7 @@
 ||www.wfdcoin.top^
 ||www.wfpcoin.live^
 ||www.wgalu.com^
+||www.wgcesweb.com^
 ||www.wgcglobalweb.com^
 ||www.wgcobj.com^
 ||www.wgtqj.com^
@@ -23988,6 +24238,7 @@
 ||www.whiskey-vault.top^
 ||www.whiskeyall.top^
 ||www.whiskeyyall.top^
+||www.whiskeyyallskol.top^
 ||www.whisky-country.top^
 ||www.whisky-hub.top^
 ||www.whisky-shop.top^
@@ -24281,6 +24532,7 @@
 ||www.xt-3ng9vx.top^
 ||www.xt-6hq8.top^
 ||www.xt-8pl9.top^
+||www.xt-b8m1.top^
 ||www.xt-z8x1.top^
 ||www.xtaid.com^
 ||www.xtaisk.com^
@@ -24340,6 +24592,7 @@
 ||www.xzlihua.xyz^
 ||www.xzmnfio.com^
 ||www.yahidb.com^
+||www.yahooceod.com^
 ||www.yajecx.com^
 ||www.yam55.com/^
 ||www.yamakinxsz.com^
@@ -24543,6 +24796,7 @@
 ||www.yundingxiangoumltw.com.tw^
 ||www.yungx.top^
 ||www.yunnanyitianyun.com/^
+||www.yunsheng-forex.com^
 ||www.yunshengcapital.forex^
 ||www.yusagcxg.com^
 ||www.yutudnscom.com^
@@ -25286,6 +25540,7 @@
 ||yty1ngm2og.huhuabc.com/4l4e3j^
 ||yuandatw.vip^
 ||yuanjiekeji.net^
+||yuanjiekeji.pro^
 ||yuanyouh.xyz^
 ||yubqwyo.cc^
 ||yueai12.cc^
@@ -25391,6 +25646,7 @@
 ||zenithasian.com^
 ||zenithfinancial.com.tw^
 ||zenixzenix.com^
+||zennessa.com^
 ||zenthrylomavex.com^
 ||zenthryvalionix.com^
 ||zentraxbe.com^
@@ -25445,6 +25701,7 @@
 ||zh.emartly-shop.shop^
 ||zh.emartly-shop.top^
 ||zh.emartly-shop.vip^
+||zh.emartly-shop.xyz^
 ||zh.merchantside.cc^
 ||zh.merchantside.net^
 ||zh.merchantside.shop^
@@ -25581,6 +25838,7 @@
 ||zynqoravithul.com^
 ||zynx-financeexchange.com^
 ||zynxfinanceexchange.com^
+||zyphorentavia.com^
 ||zz37.xincity888.com^
 ||zz6866.com^
 ||zzbinvest.com^
