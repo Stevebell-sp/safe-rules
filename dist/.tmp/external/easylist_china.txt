@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iOwEIIHsYwnNDadHRhbmAQ
-! Version: 202609070903
+! Checksum: vSV1LE+dSUuLXZHuhlpTOg
+! Version: 202609080833
 ! Title: EasyList China
-! Last modified: 07 Sep 2026 09:03 UTC
+! Last modified: 08 Sep 2026 08:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1755,6 +1755,13 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||no99z05m4p.com^
+||pmpantdgzvttbk.com^
+||kowt80ufwg.com^
+||lh6s24tadl.com^
+||664095r19h.com^
+||91pz9so28w.com^
+||kejyrcp923.com^
 ||wewubuwgz.com^
 ||rwjfbjhktsftpe.com^
 ||8lj6g9gz4.com^
@@ -1762,6 +1769,9 @@ newduba.cn###jq_youxi
 ||743w3z7pv.com^
 ||heky0uxng.com^
 ||zig1te84n.com^
+||5ntq14y5y.com^
+||k08tn5uk9.com^
+||0s5qb3rfz.com^
 ||dm03ef9xf1.com^
 ||ltnkpzlinptlde.com^
 ||y84shrg6ui.com^
@@ -11277,6 +11287,7 @@ meijutt.*/js/pcjs/
 !------------------------Specific element hiding rules------------------------!
 ping0.cc##.xeeles
 ping0.cc###adjright
+xifanacg.com##.head-more-a ~ .swiper-slide
 169bbs.com##.a_f
 kanju.ai##.movie-player-info-ad-grid
 kanju.ai##.movie-player-info-ad-heading
