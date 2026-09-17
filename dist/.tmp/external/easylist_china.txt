@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: e0p7c1soFa8qkGzsg9Rl5Q
-! Version: 202609160902
+! Checksum: jXxywa/CyedDHI3Qg+Y3TQ
+! Version: 202609170903
 ! Title: EasyList China
-! Last modified: 16 Sep 2026 09:02 UTC
+! Last modified: 17 Sep 2026 09:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1711,6 +1711,15 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||fe7xxmtg3.com^
+||zdr6wn2f5.com^
+!
+||bridge32.top^
+||yl9c8v1le.com^
+||vapvllaajrhhzc.com^
+||u6vlqrwcv.com^
+||9uza7fi60e.com^
+||2jdr5wuyzf.com^
 ||pxjabbtydothnc.com^
 ||logbook93.com^
 ||cdnboostcache.com^
@@ -1718,6 +1727,11 @@ newduba.cn###jq_youxi
 ||5e770lhs7b.com^
 ||hweiopvvxd.icu^
 ||s11henoe9i.com^
+||l0npl51iwv.com^
+||vlrvrntcxjljnu.com^
+||5tf1zp1jgb.com^
+||gnczi.cn^
+||9s3g5vd8or.com^
 ||f3wl3q92p.com^
 ||midship24.com^
 ||mzuwfvo2e.com^
@@ -4433,7 +4447,6 @@ newduba.cn###jq_youxi
 ||elmerpmsd.com^
 ||qmoqruden.com^
 ||lkthfpii.xyz^
-!
 ||k90ey77nx.com^
 ||xmgi1tqka.com^
 ||z2ubj8bpk.com^
