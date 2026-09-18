@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jXxywa/CyedDHI3Qg+Y3TQ
-! Version: 202609170903
+! Checksum: bNxcJ93J3jsq3m0bFlzXOw
+! Version: 202609180842
 ! Title: EasyList China
-! Last modified: 17 Sep 2026 09:03 UTC
+! Last modified: 18 Sep 2026 08:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1711,8 +1711,18 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||95d684gnf.com^
+||ec00t7oue1.com^
+||4kngwxegq5.com^
+||tdlqxdwwpptpli.com^
+||hawsehole52.top^
+||ruoky41k7a.com^
+||33o5sjd1ao.com^
+||pytm26vg9v.com^
 ||fe7xxmtg3.com^
 ||zdr6wn2f5.com^
+||j17xor750.com^
+||2ypqjxnzo.com^
 !
 ||bridge32.top^
 ||yl9c8v1le.com^
@@ -18683,7 +18693,6 @@ yemancomic.com##.z-index-99 > a
 ||xdyn0*jy.com^$script,xmlhttprequest,third-party
 ||xscp0*xq.com^$script,xmlhttprequest,third-party
 ||hhba0*kdh.com^$script,xmlhttprequest,third-party
-fcenxe*.top/$script,xmlhttprequest,third-party
 ||55561.net/ml.
 ||miaoshu6.com/static/js/read.
 .net/themes/jieqi/wap/js/test.
