@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OLSByyw7FJkhAoc6Cj/QFQ
-! Version: 202609240852
+! Checksum: UA7x7f8wql6woe0FpvClvg
+! Version: 202609250923
 ! Title: EasyList China
-! Last modified: 24 Sep 2026 08:52 UTC
+! Last modified: 25 Sep 2026 09:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1710,6 +1710,17 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||uzhrtuyij.com^
+||vljyztqsnkhvra.com^
+||rib0nsgx6.com^
+||compass12.top^
+||ihbkqdj55.com^
+||f1x12og38.com^
+||u8jlui323.com^
+||gcvns12jp.com^
+||kvfskyv6h7.com^
+||qa2bdtwm7h.com^
+||ktgyslaux8.com^
 ||microwave97.com^
 ||dan4irc1i.com^
 ||rsrldrnubehntu.com^
@@ -6620,7 +6631,7 @@ $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downh
 ||yy18.info^*thanks$popup
 !----------------------Specific advert blocking filters-----------------------!
 $image,third-party,domain=lady1.top
-$script,third-party,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
+$script,third-party,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|mvffm.net|xiaoheimi.cc
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -16855,8 +16866,8 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||cbjs.baidu.com/js/m.js$domain=fxpan.com|iyingdi.com|pic.tiexue.net
 @@||ccb.com^*^ad
 @@||ccllaa.com^$generichide
-@@||cdn.jsdelivr.net^$script,domain=movieffm.net
-@@||cdn.staticfile.org^$script,domain=movieffm.net
+@@||cdn.jsdelivr.net^$script,domain=mvffm.net
+@@||cdn.staticfile.org^$script,domain=mvffm.net
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 @@||chaintv.xyz/homestatic/js/adjs.js
 @@||changyou.com^$generichide
