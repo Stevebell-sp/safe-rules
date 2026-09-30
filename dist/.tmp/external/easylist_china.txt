@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: niKB8zXgXyaTuA515kDTLg
-! Version: 202609291022
+! Checksum: p4FTej1zm5Qou7+ShYhjkw
+! Version: 202609301014
 ! Title: EasyList China
-! Last modified: 29 Sep 2026 10:22 UTC
+! Last modified: 30 Sep 2026 10:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1706,6 +1706,14 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||gangway97.com^
+||rwhyrlb8r2.com^
+||o17kbwlq9p.com^
+||ywxc.net^
+||baztfhhqiuvttm.com^
+||ht55hm12n2.com^
+||1o23ptd0sv.com^
+||p7w3bmhmns.com^
 ||lk54dfg87.com^
 ||2hqxy07fw.com^
 ||jqopurafw.com^
@@ -1719,6 +1727,8 @@ newduba.cn###jq_youxi
 ||5n131lck8.com^
 ||s7jkxkm72.com^
 ||9qvpcta0t.com^
+||js1lw9n6w.com^
+||rbru3ubey.com^
 ||stateroom28.com^
 ||qs2zdat2pi.com^
 ||xhhgjfpswovlvg.com^
@@ -11023,6 +11033,7 @@ meijutt.*/js/pcjs/
 ||huangguo.me/static/js/linePromo.
 !------------------------Specific element hiding rules------------------------!
 xc6b.com##.cHeadImg
+sohu.com##a[data-url*=".mediav.com"]
 hao123.com###float-ad-left
 ping0.cc##.xeeles
 ping0.cc###adjright
@@ -18789,8 +18800,6 @@ niuyankan.top###content > a
 .cn/cS389.js
 ||uaa.com/js/dxj.
 uaa.com##.popup_dialog_box
-wss://*.com:29*/$third-party
-wss://*.com:800*/$third-party,domain=~survev.io
 ##.row.nav-bottom + div[style^="display: block; position: relative; width: 0px; height:"]
 ##a[href*="aHR0cHM6Ly9xc2Z2bDExLmFsYXp2LmNvbS8zNzA4Lmh0bWw="]
 ||lzbao.net/syster.
