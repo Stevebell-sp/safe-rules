@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4N0UVUScSct5n8iBnd6L+Q
-! Version: 202610041021
+! Checksum: j3xxB2OH9V9amYl3zUnt0A
+! Version: 202610051112
 ! Title: EasyList China
-! Last modified: 04 Oct 2026 10:21 UTC
+! Last modified: 05 Oct 2026 11:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1692,6 +1692,14 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||dishwasher46.com^
+||8hvq8jskh.com^
+||bedwlzqwkxpzfc.com^
+||2wg8pp90e.com^
+||qim0lvk6m.com^
+||qd32n9lpq.com^
+||tek3shnfk.com^
+||p0h1nfzc2.com^
 ||buyrbto5z2.com^
 ||vbhbzhjaeudztw.com^
 ||sprinkler69.com^
@@ -1704,6 +1712,8 @@ newduba.cn###jq_youxi
 ||xdnjqtn.com^
 ||h32rbpk7ne.com^
 ||g6f0w30cze.com^
+||odj3j8dsff.com^
+||2lcdjyf37f.com^
 ||rotovator44.top^
 ||8tjomzqlw.com^
 ||lelzbtm2o.com^
@@ -17461,8 +17471,8 @@ jm18c-oec.club,18comic.org,18comic.vip,18comic.ink#?#div[data-group]:-abp-has(>.
 !#3
 !#4hu.tv
 ||cszpra.com^*.gif
-##body > #__nuxt:first-child ~ div[data-tag] > div > div > button[aria-label] + div[class]
-##body > #__nuxt:first-child > div > .container > div[data-topmenu] + div + div[data-pg-wrap]
+##body > #__nuxt:first-child ~ div[class] > div > div > button[aria-label] + div[class]
+##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
 ##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
 !#58.com
