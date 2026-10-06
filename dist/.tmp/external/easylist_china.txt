@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: j3xxB2OH9V9amYl3zUnt0A
-! Version: 202610051112
+! Checksum: TD5ZywNDtTMgEYPGpFbroA
+! Version: 202610061052
 ! Title: EasyList China
-! Last modified: 05 Oct 2026 11:12 UTC
+! Last modified: 06 Oct 2026 10:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -18,7 +18,6 @@
 !
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.alpha^$script,third-party
-/7755com-*00x*.gif
 /static/tb/kyqp.gif
 ://ads-img2026.
 :866/o.js$script,third-party
@@ -1692,6 +1691,14 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||6y10di5jko.com^
+||tightrope23.com^
+||zhzrvjmyqvdhrc.com^
+||gcqgmgq.com^
+||wkduza2x10.com^
+||j3ossmqgmc.com^
+||xtorbk1g3f.com^
+||3ylj411rdn.com^
 ||dishwasher46.com^
 ||8hvq8jskh.com^
 ||bedwlzqwkxpzfc.com^
@@ -1700,6 +1707,8 @@ newduba.cn###jq_youxi
 ||qd32n9lpq.com^
 ||tek3shnfk.com^
 ||p0h1nfzc2.com^
+||lfxm6qdn0.com^
+||6aqqzbehy.com^
 ||buyrbto5z2.com^
 ||vbhbzhjaeudztw.com^
 ||sprinkler69.com^
@@ -11014,7 +11023,6 @@ meijutt.*/js/pcjs/
 ||aizhan.com/images/img/apicn.
 ||xfvod.pro/images/ad/
 ||hupu.com^*/interfaceAd/
-||dyxs39.com/statics/js/jquery.
 ||yximgs.com/bs2/adcarsku/*.gif
 ||waipian*.com/statics/recommend/
 ||taozi.icu/asfile/m/js/guding.
