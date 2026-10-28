@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6dKLz9krtzu4RvJk01rzGQ
-! Version: 202610270932
+! Checksum: FGGGvfs0ZDJTZEuSNBbiwQ
+! Version: 202610281012
 ! Title: EasyList China
-! Last modified: 27 Oct 2026 09:32 UTC
+! Last modified: 28 Oct 2026 10:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1336,6 +1336,11 @@ newduba.cn###jq_youxi
 ||hash.trafficmanager.net^
 ||trafficmanager.net/o.js
 !
+||fireplace32.com^
+||x781w71m0j.com^
+||dvtkppqczzfhpk.com^
+||uvaf6ko09w.com^
+||ec2ic6ew5k.com^
 ||p5regbg09.com^
 ||tuxcpf6pq.com^
 ||fsxpdfugtwrzde.com^
@@ -1345,6 +1350,9 @@ newduba.cn###jq_youxi
 ||rx7pi9v1x.com^
 ||o35jufwu6.com^
 ||lgfktruknrjbxc.com^
+||t9j3lrvrv.com^
+||vm1mmq2h1.com^
+||c5i6rfwyf.com^
 ||secretaire97.com^
 ||vqnvib2h7e.com^
 ||ssi1gqcx0m.com^
@@ -16134,6 +16142,9 @@ guailie.com#@#.google-ad
 !#2
 !#3
 !#4hu.tv
+##body > #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class] + div[class]
+##body > #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class]
+##body >#__nuxt > div > .container > div[class^="menu-"] + div + div[class^="pg-v-sec-"][style*="important"]
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
 ##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 ##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
