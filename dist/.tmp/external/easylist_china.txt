@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6RDEIPO28zGCsFW7DWg2yg
-! Version: 202610291041
+! Checksum: UD3lpd1EAylysU2fHSbHLA
+! Version: 202610301032
 ! Title: EasyList China
-! Last modified: 29 Oct 2026 10:41 UTC
+! Last modified: 30 Oct 2026 10:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1336,6 +1336,12 @@ newduba.cn###jq_youxi
 ||hash.trafficmanager.net^
 ||trafficmanager.net/o.js
 !
+||0r5e0xvwes.com^
+||barstool59.com^
+||ka9gcc8ifd.com^
+||holxlriacffphq.com^
+||6iwulft12t.com^
+||ysy5uobifs.com^
 ||ndhfz9zw2.com^
 ||itkdb58mo.com^
 ||jlpfbhmefcthbk.com^
@@ -6227,6 +6233,7 @@ $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downh
 !----------------------Specific advert blocking filters-----------------------!
 $script,third-party,domain=52movieba.com|audio699.com|duboku.info|kan-tv.com|m.supfree.net|mvffm.net|xiaoheimi.cc|xiaoyakankan.com|xunleisou.forum|xunleisou.info|xunleisou.life
 $script,third-party,websocket,domain=52codes.net
+$script,xmlhttprequest,third-party,domain=freeokk.pro
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .194007.com/4058.gif
@@ -10143,6 +10150,7 @@ meijutt.*/js/pcjs/
 ||287mm.com/6-js/
 ||159i.net/ads/
 ||girigirilove.com^*/appConfigData?key=adver_
+||yszzq.com/Style/js/date.
 !------------------------Specific element hiding rules------------------------!
 159i.net##.a3
 szxx.com.cn###A0
