@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PNawEkhEgXHylBizColjBQ
-! Version: 202611011102
+! Checksum: QOvMDcQHxrlx6iPb5Gs/HQ
+! Version: 202611021202
 ! Title: EasyList China
-! Last modified: 01 Nov 2026 11:02 UTC
+! Last modified: 02 Nov 2026 12:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1336,6 +1336,14 @@ newduba.cn###jq_youxi
 ||hash.trafficmanager.net^
 ||trafficmanager.net/o.js
 !
+||mgu14s8c5h.com^
+||refrigerator16.com^
+||fwbvjxsmvznfpu.com^
+||p0m1qlvawp.com^
+||xkp30u4pxh.com^
+||22n5xlc6n0.com^
+||uxee5bmf1k.com^
+||sf5yzh4yqz.com^
 ||nq6jitu4y.com^
 ||08137tabw.com^
 ||tableware66.com^
@@ -1346,6 +1354,7 @@ newduba.cn###jq_youxi
 ||k6p5kaelz.com^
 ||20ml7x2sk.com^
 ||m2fnnugqp.com^
+||7hc5zpcv6.com^
 ||ezaudueu6.com^
 ||frhsxjpciitptq.com^
 ||mebqlxk7o.com^
@@ -9951,7 +9960,7 @@ meijutt.*/js/pcjs/
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdyjt.com^
-||xfvod.pro/images/ad/
+||xfvod.pro*/images/ad/
 ||xghylt.com/api.php?mod=ad&adid=
 ||xhymsq.com/data/attachment/portal/
 ||xiacaidd.com/xiacai/ad/
@@ -10174,6 +10183,7 @@ meijutt.*/js/pcjs/
 ||159i.net/ads/
 ||girigirilove.com^*/appConfigData?key=adver_
 ||yszzq.com/Style/js/date.
+||yxxq59.cc/static/images/ads/
 !------------------------Specific element hiding rules------------------------!
 159i.net##.a3
 szxx.com.cn###A0
