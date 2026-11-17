@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ShgJRRtf6/K/lx1EUJ1wdw
-! Version: 202611161222
+! Checksum: rIuSa6AZeLU7rFOFAvzTfQ
+! Version: 202611171252
 ! Title: EasyList China
-! Last modified: 16 Nov 2026 12:22 UTC
+! Last modified: 17 Nov 2026 12:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1320,12 +1320,26 @@ newduba.cn###jq_youxi
 ||hash.trafficmanager.net^
 ||trafficmanager.net/o.js
 !
+||tmn70vp2u.com^
+||i20k3b5yi.com^
+||i5dtd6dfl.com^
+||m4820qu4n.com^
+||enjihdh0t.com^
+||zs68h9vow.com^
+||complement88.com^
+||1nqv0i1kk.com^
+||xsdnb.com^
 ||iytnwiw0e1.com^
 ||divisible26.com^
 ||681znub3xp.com^
 ||ll4d0puaa2.com^
 ||01wgskp9y3.com^
 ||grmxqjo.com^
+||1bdy5sl4fc.com^
+||y756n8wwt8.com^
+||52cg5n8jjd.com^
+||tlomdebs.com^
+||7xjdieyglr.com^
 ||extraction14.com^
 ||uxawyas.com^
 ||lwlqblkcucbrjy.com^
@@ -10275,6 +10289,7 @@ meijutt.*/js/pcjs/
 ||yszzq.com/Style/js/date.
 ||yxxq59.cc/static/images/ads/
 ||qzhyc.com.cn/g.
+||jgwxs.com/images/sim.
 !------------------------Specific element hiding rules------------------------!
 159i.net##.a3
 wenshushu.cn##.not-tree > .mer-item
