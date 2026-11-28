@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: LowTechFilter TW165 abp
-! Version: 2026.1127.2
+! Version: 2026.1128.3
 ! Expires: 1 hour
 ! Homepage: https://t.me/AdBlock_TW
 ! ----------------------------------------------------------------------
@@ -980,6 +980,7 @@
 ||alpexlabp.com^
 ||alpha-finace.com^
 ||alphadappx.com^
+||alphadp.ink^
 ||alphadp.pro^
 ||alphafinace.com^
 ||alphafinacec.com^
@@ -1152,6 +1153,7 @@
 ||apexglobal-emporium.shop^
 ||apexglobal-gallery.store^
 ||apexglobal-go.store^
+||apexglobal-marketplace.shop^
 ||apexglobal-retail.shop^
 ||apexglobal-retailer.shop^
 ||apexglobal-showcase.store^
@@ -2114,6 +2116,7 @@
 ||atopforex.com^
 ||atuboasset.com^
 ||atw.tecyen.com^
+||aucnsg.com^
 ||auctionhouse.eu.cc^
 ||audacitycapitaip.com^
 ||audacitycapitalx.com^
@@ -2409,7 +2412,9 @@
 ||belc.bellagioweb.vip^
 ||bellavorashop-emporium.shop^
 ||bellavorashop-mall.shop^
+||bellavorashop-market.shop^
 ||bellavorashop-pavilion.shop^
+||bellavorashop-store.shop^
 ||bellemaison.best^
 ||bellemaison.online^
 ||bellmoforfx.com^
@@ -2860,6 +2865,7 @@
 ||biztradecoin.com^
 ||bj.citics1397.com^
 ||bj.citis30862.com^
+||bjsdrb.com^
 ||bjtk.tw.webbai15.xyz^
 ||bjwex300.com/^
 ||bjwex300.com^
@@ -3305,6 +3311,7 @@
 ||c2cius.com^
 ||c2cmez.com^
 ||c2csaf.com^
+||c2cvwh.com^
 ||c2cxvip.com^
 ||c2cxvips.com^
 ||c3rp4m.romeibook.cc^
@@ -3725,6 +3732,7 @@
 ||cloudbuymall.com^
 ||cloudcart.tech^
 ||cloudemallshop.com^
+||cloudmallbuy.com^
 ||cls.mxtrad.net/regisder^
 ||cls168.top^
 ||cls169.top^
@@ -3993,6 +4001,7 @@
 ||comxau.cc^
 ||comxau.top^
 ||comxaut.cc^
+||comxs.top^
 ||condo1.icu^
 ||conking-wiishis.com^
 ||cons.modalysts.com^
@@ -4438,7 +4447,9 @@
 ||dac4v8p3gu6i2.cloudfront.net^
 ||dacc.musicxoin.com^
 ||dacforex.com^
+||daebrarshop-coupon.shop^
 ||daebrarshop-essentials.shop^
+||daebrarshop-selection.shop^
 ||daebrarshop-showroom.shop^
 ||daebrarshop-voucher.shop^
 ||dafecred.com^
@@ -4612,6 +4623,7 @@
 ||deadira-quality.store^
 ||deadira-showroom.shop^
 ||deadira-zonehub.store^
+||deadrashop-arcade.shop^
 ||deadrashop-basket.shop^
 ||deadrashop-borough.shop^
 ||deadrashop-outlet.shop^
@@ -4624,6 +4636,7 @@
 ||dealorashop-offers.store^
 ||dealshaker.cloudnfla.com^
 ||dealshakksshop.com^
+||dealshakksshopps.com^
 ||dealwhole.xyz^
 ||deamed.cc^
 ||deameg.cc^
@@ -5408,6 +5421,7 @@
 ||eightcap.ahead9.com^
 ||eightcap.etrades.info^
 ||eightcapwon.com^
+||eiwhv.com^
 ||eix.global-trademax.net^
 ||ej.y5btufj.com^
 ||ejftxxxb.top^
@@ -5587,6 +5601,7 @@
 ||etzv.bfsaqpro.xyz^
 ||eu.excentral.com/^
 ||eu.molson.shop/h5^
+||eulererc.com^
 ||eur000.okexxs.com^
 ||eur333.asiacpt.net^
 ||eurcwfinze.com^
@@ -5630,8 +5645,11 @@
 ||exbit163.xyz^
 ||exbybita-tw.com^
 ||exbybita1-tw.com^
+||exbybita2-tw.com^
+||exbybitaea.com^
 ||exbybitaitw.com^
 ||exbybitaitwa1.com^
+||exbybitaitwwa.com^
 ||exbybitaxe.com^
 ||exc.bmtint.com/_FrontEnd/index.aspx^
 ||excalibur.financesnew.xyz^
@@ -5869,6 +5887,7 @@
 ||fermolis.com^
 ||fesfunds.com^
 ||fesh021.vip^
+||fetaiepew.com^
 ||fetche-fex.com^
 ||fevc.fxtiiu.com^
 ||ff.appdonw.net^
@@ -5992,6 +6011,7 @@
 ||flamgvip.com^
 ||flash2deal.xyz^
 ||flashcoin.cc^
+||flbmsv.top^
 ||flea.gdxx6.com/^
 ||flea.mega1024.com^
 ||flencoin.com^
@@ -6091,6 +6111,7 @@
 ||fotune.synergyten.online^
 ||fparagonmart-cart.store^
 ||fpavanti.com^
+||fpmarketsltd.cc^
 ||fr12.top^
 ||france.goldnsales.com^
 ||france.metalmakt.com^
@@ -6555,6 +6576,7 @@
 ||giftssaylor.io^
 ||gigant.icu/Pc/#/home?room^
 ||gign.citifnd.com/^
+||gimim.cyou^
 ||gimv18.jfbdesa.com/gjqtxz^
 ||given.era55.com/^
 ||givepharxc.com^
@@ -6695,6 +6717,7 @@
 ||goldes.top^
 ||goldf666.bonwway.com/^
 ||goldf666.bonwway.com^
+||goldftcx.com^
 ||goldftwtrade.com^
 ||goldkie.one^
 ||goldkie.top^
@@ -7464,6 +7487,7 @@
 ||higher4transa.com^
 ||highforexstw.com^
 ||highforextw.com^
+||hightechatw-now.com^
 ||hightechtw-now.com^
 ||hightop-dex.com^
 ||higo.link^
@@ -8109,6 +8133,7 @@
 ||inves.mginvestmentstw.net/^
 ||investcorake.com^
 ||investgold.top^
+||investingclever.net^
 ||investment2021.twyuminn20.com/^
 ||investmentadvisoryihfs.com^
 ||investor-insight-hub--jorgemendez100.replit.app^
@@ -8344,6 +8369,7 @@
 ||jpmchase.tw/download^
 ||jpmstockindex.com.tw^
 ||jpx-toshop.top^
+||jpxgxk.com^
 ||jpxwwq.com^
 ||jqcapp.com^
 ||jqq5.com^
@@ -8516,6 +8542,7 @@
 ||kcoinowner.com^
 ||kcoinpeg.com^
 ||kcoinreg.com^
+||kcoinuacryptochart.xyz^
 ||kcowebs.com^
 ||kd.bonwway.com/^
 ||kd.coas6.com/^
@@ -8552,7 +8579,9 @@
 ||kerviqalo.com^
 ||ketoors.com^
 ||kevraaxl.com^
+||kevradua.com^
 ||kevratv.com^
+||kevraukn.com^
 ||kevravtx.com^
 ||kextops.top^
 ||keyindices.net/^
@@ -10100,6 +10129,7 @@
 ||malltesco.com^
 ||malltikn.top^
 ||mambainvest.com^
+||mambainvestment.com^
 ||mans77.dapx9.com/^
 ||manycoin.com^
 ||maogox.com^
@@ -10440,6 +10470,7 @@
 ||miqvrolantixa.com^
 ||miracledxsx.com^
 ||miracleefs.com^
+||miracleshopping.vip^
 ||miraclesiu.com^
 ||miravia.io^
 ||miravia.link^
@@ -10907,6 +10938,7 @@
 ||neapolitanmall-arcade.shop^
 ||neapolitanmall-atrium.shop^
 ||neapolitanmall-forum.shop^
+||neapolitanmall-pavilion.shop^
 ||neapolitanmall-square.shop^
 ||nelapot.com^
 ||nemo.weex.fun^
@@ -11712,6 +11744,7 @@
 ||phemexi.com^
 ||phemexproe.com^
 ||phillipcapitaluk.wiki/^
+||phkutdts.com^
 ||phkutsrt.com^
 ||phmexotc.aliexpres2.cc^
 ||phmexotc.amazon1c.com^
@@ -11748,6 +11781,7 @@
 ||pinshici.cc^
 ||pioneer-tw.onhercules.app^
 ||pioneerx.it.com^
+||pioneuy.com^
 ||pipfarme.com^
 ||pipfarmo.com^
 ||pipsmasterpr.com^
@@ -11782,6 +11816,7 @@
 ||plus.bk-tuimei.com/^
 ||plus.bk-tuimei.com^
 ||plus500.com.au^
+||plusproaspin.com^
 ||pluss700.com^
 ||plusss.bk-bimax.com^
 ||pm.annmr.com^
@@ -11884,6 +11919,7 @@
 ||priderockmarket.com^
 ||priderocktw.com^
 ||prientraffix-dealer.shop^
+||prientraffix-emporium.shop^
 ||prientraffix-retailer.shop^
 ||prientraffix-vendor.shop^
 ||primeblock-trading.com^
@@ -11899,6 +11935,7 @@
 ||primetraffic-quarter.shop^
 ||primetraffic-square.shop^
 ||primeviamarket-direct.shop^
+||primeviamarket-quality.shop^
 ||primeviamarket-supplyx.shop^
 ||primexbta.net^
 ||printemok.com^
@@ -11925,6 +11962,7 @@
 ||profile.exthinkmarkets.com^
 ||profita.vertexxs.com/login^
 ||promargin-bundle.store^
+||promargin-line.store^
 ||promargin-premium.store^
 ||promargin-shelfx.store^
 ||proshares.cyou^
@@ -12051,6 +12089,7 @@
 ||qifanasset.com^
 ||qifanassets.com^
 ||qingxinweida-invest.com^
+||qingxinweida-investor.com^
 ||qingxinweidacapital.com^
 ||qingxinweidainvest.com^
 ||qirione.com^
@@ -12185,6 +12224,7 @@
 ||qyv6xotc.info^
 ||qywin88.com^
 ||qz48.zhyotc.com^
+||qzbmnx.top^
 ||qzeplkm.cc^
 ||qzrcy.rkeflhpl.com/eeplcox0^
 ||r-revainro.com^
@@ -12633,6 +12673,7 @@
 ||sbiamax.top^
 ||sbiamaxx.xyz^
 ||sbicmax.top^
+||sbiglobalapp.top^
 ||sbimax.net^
 ||sbimaxapp.com^
 ||sbimaxbc.org^
@@ -12955,6 +12996,7 @@
 ||shopingcentral.shop^
 ||shopingcentrales.top^
 ||shopingmai.com^
+||shopkuantokustatw.com^
 ||shopline.aiqntv.vip^
 ||shopline.aouqk.vip^
 ||shopline.gicpy.vip^
@@ -13156,7 +13198,9 @@
 ||sonnet81.cc^
 ||sonnet9.cc^
 ||sonnet9.club^
+||sonnet9.com^
 ||soph.tw^
+||sophisticatedcommerce-gallery.shop^
 ||sophisticatedcommerce-outlet.shop^
 ||sorqelavin.com^
 ||sotnssssvvvvvip.store^
@@ -13408,6 +13452,7 @@
 ||sunrayforex.com/^
 ||sunyaodong.top/konjr.html^
 ||suo.im/5umBXy^
+||suopcpas.top^
 ||supbnv.com^
 ||super.bk-egmax.com^
 ||super.hufenwin.com^
@@ -13628,6 +13673,7 @@
 ||taiwan1.tdcxy.com^
 ||taiwan1.todutrade.com^
 ||taiwanchaiquan28.store^
+||taiwantechhub.com^
 ||taiwanzdgyx.vip^
 ||taiwzstgyx.vip^
 ||taiyin.vip^
@@ -13716,6 +13762,7 @@
 ||teapuertea.com^
 ||tearawtea.com^
 ||tebbit.fhuet.com^
+||tebitgtz.com^
 ||tebittqy.com^
 ||tebitxdg.com^
 ||technologyap.com^
@@ -13904,6 +13951,7 @@
 ||tikistores.cc^
 ||tikk-shop.net/h5^
 ||tikkmallv.cc/www^
+||tikkmartlv.com^
 ||tikmalles.top/www^
 ||tikmalles.top^
 ||tikmallfjl.top/www^
@@ -14011,6 +14059,7 @@
 ||tmaxji.com^
 ||tmaxky.com^
 ||tmeoffical.com^
+||tmhuhl.cn^
 ||tmionline-tw.cc^
 ||tmoonline-tw.cc^
 ||tmsr.tw^
@@ -14297,6 +14346,7 @@
 ||tree16888.txnnezsf.com^
 ||treehousedefi.com^
 ||treehouseeth.com^
+||treehouseki.com^
 ||treehouseku.com^
 ||trelmocasturin.com^
 ||trend-culture188.com/#/^
@@ -29050,6 +29100,8 @@
 ||zealmarketfx.com^
 ||zeeusweb.com^
 ||zeeusweb.info^
+||zefith.top^
+||zehrps.com^
 ||zelqanovir.com^
 ||zelqanthoriv.com^
 ||zendropmallpo.com^
